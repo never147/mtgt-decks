@@ -1,24 +1,23 @@
-2 [AKH:160] Channeler Initiate
+4 [AKH:160] Channeler Initiate
 4 [XLN:33] Sanguine Sacrament
-3 [XLN:32] Ritual of Rejuvenation
+4 [XLN:32] Ritual of Rejuvenation
 6 [AKH:250] Plains
+4 [KLD:15] Fumigate
 4 [XLN:257] Sunpetal Grove
 4 [KLD:242] Aether Hub
 4 [XLN:243] Primal Amulet
-4 [XLN:187] Drover of the Mighty
+2 [XLN:232] Vraska, Relic Seeker
 4 [KLD:192] Aetherflux Reservoir
-4 [AKH:209] Weaver of Currents
-3 [AKH:25] Renewed Faith
-4 [AKH:167] Gift of Paradise
+4 [AKH:25] Renewed Faith
+2 [AKH:167] Gift of Paradise
 4 [AKH:247] Scattered Groves
 6 [AKH:254] Forest
 4 [HOU:121] Life Goes On
-SB: 2 [AKH:160] Channeler Initiate
 SB: 2 [HOU:182] Scavenger Grounds
-SB: 2 [KLD:141] Appetite for the Unnatural
-SB: 1 [XLN:32] Ritual of Rejuvenation
-SB: 2 [KLD:15] Fumigate
-SB: 1 [AKH:25] Renewed Faith
-SB: 2 [XLN:232] Vraska, Relic Seeker
-LAYOUT MAIN:(2,5)(CMC,true,60)|()()([AKH:160],[AKH:160],[XLN:187],[XLN:187],[XLN:187],[XLN:187])([AKH:209],[AKH:209],[AKH:209],[AKH:209])()([KLD:242],[KLD:242],[KLD:242],[KLD:242],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:247],[AKH:247],[AKH:247],[AKH:247],[XLN:257],[XLN:257],[XLN:257],[XLN:257])([HOU:121],[HOU:121],[HOU:121],[HOU:121])([XLN:33],[XLN:33],[XLN:33],[XLN:33])([AKH:167],[AKH:167],[AKH:167],[AKH:167],[AKH:25],[AKH:25],[AKH:25],[XLN:32],[XLN:32],[XLN:32])([KLD:192],[KLD:192],[KLD:192],[KLD:192],[XLN:243],[XLN:243],[XLN:243],[XLN:243])
-LAYOUT SIDEBOARD:(3,4)(CMC,false,50)|([HOU:182],[HOU:182])([AKH:160],[AKH:160])([KLD:15],[KLD:15])([XLN:232],[XLN:232])()()([KLD:141],[KLD:141])()()([AKH:25],[XLN:32])()()
+SB: 2 [AKH:171] Haze of Pollen
+SB: 3 [KLD:141] Appetite for the Unnatural
+SB: 4 [KLD:5] Authority of the Consuls
+SB: 2 [AKH:15] Gideon's Intervention
+SB: 2 [XLN:17] Ixalan's Binding
+LAYOUT MAIN:(2,6)(CMC,true,60)|()()([AKH:160],[AKH:160],[AKH:160],[AKH:160])()()()([KLD:242],[KLD:242],[KLD:242],[KLD:242],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:247],[AKH:247],[AKH:247],[AKH:247],[XLN:257],[XLN:257],[XLN:257],[XLN:257])([HOU:121],[HOU:121],[HOU:121],[HOU:121])([XLN:33],[XLN:33],[XLN:33],[XLN:33])([AKH:167],[AKH:167],[AKH:25],[AKH:25],[AKH:25],[XLN:32],[XLN:32],[XLN:32],[AKH:25],[XLN:32])([KLD:192],[KLD:192],[KLD:192],[KLD:192],[XLN:243],[XLN:243],[XLN:243],[XLN:243])([KLD:15],[KLD:15],[XLN:232],[XLN:232],[KLD:15],[KLD:15])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([HOU:182],[HOU:182])([KLD:5],[KLD:5],[KLD:5],[KLD:5])([AKH:171],[AKH:171])([KLD:141],[KLD:141],[KLD:141])([AKH:15],[AKH:15],[XLN:17],[XLN:17])
