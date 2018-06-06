@@ -2,6 +2,7 @@
 9 [AKH:250] Plains
 4 [XLN:65] Opt
 4 [KLD:15] Fumigate
+4 [KLD:52] Insidious Will
 4 [XLN:255] Glacial Fortress
 2 [HOU:49] Supreme Will
 4 [XLN:243] Primal Amulet
@@ -11,7 +12,7 @@
 2 [AKH:25] Renewed Faith
 4 [AKH:245] Irrigated Farmland
 4 [KLD:50] Glint-Nest Crane
-9 [AKH:251] Island
+11 [AKH:251] Island
 2 [AER:40] Negate
 SB: 2 [HOU:182] Scavenger Grounds
 SB: 2 [XLN:32] Ritual of Rejuvenation
@@ -21,5 +22,5 @@ SB: 2 [AER:31] Disallow
 SB: 2 [XLN:81] Spell Pierce
 SB: 2 [XLN:17] Ixalan's Binding
 SB: 1 [XLN:71] River's Rebuke
-LAYOUT MAIN:(2,6)(CMC,true,60)|()()([KLD:50],[KLD:50],[KLD:50],[KLD:50])()()()([XLN:255],[XLN:255],[XLN:255],[XLN:255],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:251],[AKH:251],[AKH:251],[AKH:251])([XLN:65],[XLN:65],[XLN:65],[XLN:65])([AKH:52],[AKH:52],[AER:40],[AER:40],[XLN:33],[XLN:33],[XLN:33],[XLN:33],[HOU:47],[HOU:47])([HOU:49],[HOU:49],[AKH:25],[AKH:25])([KLD:192],[KLD:192],[KLD:192],[KLD:192],[XLN:243],[XLN:243],[XLN:243],[XLN:243])([KLD:15],[KLD:15],[KLD:15],[KLD:15])
+LAYOUT MAIN:(2,6)(CMC,true,60)|()()([KLD:50],[KLD:50],[KLD:50],[KLD:50])()()()([XLN:255],[XLN:255],[XLN:255],[XLN:255],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251])([XLN:65],[XLN:65],[XLN:65],[XLN:65])([AKH:52],[AKH:52],[AER:40],[AER:40],[XLN:33],[XLN:33],[XLN:33],[XLN:33],[HOU:47],[HOU:47])([HOU:49],[HOU:49],[AKH:25],[AKH:25])([KLD:192],[KLD:192],[KLD:192],[KLD:192],[XLN:243],[XLN:243],[XLN:243],[XLN:243],[KLD:52],[KLD:52],[KLD:52],[KLD:52])([KLD:15],[KLD:15],[KLD:15],[KLD:15])
 LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([HOU:182],[HOU:182])([XLN:81],[XLN:81])([AER:31],[AER:31],[AKH:25],[AKH:25],[XLN:32],[XLN:32])([AKH:15],[AKH:15],[XLN:17],[XLN:17])([XLN:71])
