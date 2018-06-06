@@ -1,0 +1,24 @@
+3 Cloudfin Raptor
+3 Dream Stalker
+4 Faerie Miscreant
+4 Mulldrifter
+3 Ninja of the Deep Hours
+3 Sea Gate Oracle
+4 Spellstutter Sprite
+3 Spire Golem
+4 Preordain
+4 Counterspell
+3 Snap
+1 Serrated Arrows
+20 Island
+1 Radiant Fountain
+
+Sideboard
+2 Serrated Arrows
+2 Coral Net
+2 Curse of Chains
+3 Disrupt
+1 Gremlin Mine
+2 Hydroblast
+2 Nullify
+1 Piracy Charm

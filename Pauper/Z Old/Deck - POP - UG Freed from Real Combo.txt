@@ -1,0 +1,25 @@
+2 Forest
+8 Island
+2 Simic Growth Chamber
+2 Simic Guildgate
+4 Thornwood Falls
+3 Gigadrowse
+4 Impulse
+4 Lifespark Spellbomb
+4 Fertile Ground
+4 Freed from the Real
+3 Sheltered Aerie
+4 Wind Zendikon
+4 Ponder
+4 Preordain
+2 Train of Thought
+4 Drift of Phantasms
+2 Valakut Invoker
+
+Sideboard
+4 Dispel
+4 Fog
+4 Hydroblast
+1 Spore Frog
+1 Train of Thought
+1 Gigadrowse

@@ -1,0 +1,27 @@
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+4 Eldrazi Temple
+3 Forest
+1 Haunted Fengraf
+4 Chromatic Sphere
+4 Chromatic Star
+4 Expedition Map
+4 Ancient Stirrings
+4 Sylvan Scrying
+2 Ulamog, the Ceaseless Hunger
+4 Thought-Knot Seer
+4 Conduit of Ruin
+1 Kozilek, the Great Distortion
+3 World Breaker
+4 Karn Liberated
+2 All is Dust
+
+Sideboard
+1 All Is Dust
+2 Creeping Corrosion
+2 Feed the Clan
+3 Nature's Claim
+1 Ruin Processor
+3 Spellskite
+3 Warping Wail

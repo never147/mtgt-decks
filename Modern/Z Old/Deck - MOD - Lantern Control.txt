@@ -1,0 +1,36 @@
+2 Abrupt Decay
+2 Academy Ruins
+4 Ancient Stirrings
+2 Blackcleave Cliffs
+4 Codex Shredder
+1 Copperline Gorge
+1 Duress
+4 Ensnaring Bridge
+1 Forest
+2 Ghost Quarter
+3 Ghoulcaller's Bell
+4 Glimmervoid
+1 Infernal Tutor
+4 Inquisition of Kozilek
+4 Lantern of Insight
+4 Llanowar Wastes
+4 Mox Opal
+3 Pithing Needle
+1 Pyrite Spellbomb
+2 Pyroclasm
+2 Pyxis of Pandemonium
+1 Sea Gate Wreckage
+2 Surgical Extraction
+2 Thoughtseize
+
+Sideboard
+1 Ancient Grudge
+1 Chord of Calling
+1 Grafdigger's Cage
+2 Leyline of Sanctity
+1 Pithing Needle
+1 Seal of Primordium
+2 Spellskite
+2 Sun Droplet
+2 Surgical Extraction
+2 Welding Jar

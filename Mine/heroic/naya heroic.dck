@@ -1,0 +1,33 @@
+4 [THS:13] Favored Hoplite
+3 [ZEN:242] Mountain
+1 [ZEN:243] Mountain
+4 [FRF:116] Temur Battle Rage
+1 [ZEN:244] Mountain
+4 [ROE:20] Emerge Unscathed
+1 [EXP:20] Windswept Heath
+1 [10E:45] Spirit Link
+1 [EXP:19] Wooded Foothills
+1 [ZEN:246] Forest
+4 [ZEN:247] Forest
+1 [ZEN:248] Forest
+2 [ULG:110] Rancor
+2 [SOI:20] Gryff's Boon
+4 [MM2:149] Mutagenic Growth
+2 [SOI:274] Fortified Village
+4 [JOU:14] Lagonna-Band Trailblazer
+1 [M12:24] Lifelink
+4 [JOU:110] Satyr Hoplite
+1 [ZEN:230] Plains
+1 [EXP:10] Temple Garden
+1 [ZEN:231] Plains
+4 [ZEN:233] Plains
+4 [KTK:133] Hardened Scales
+4 [JOU:141] Solidarity of Heroes
+SB: 1 [M12:24] Lifelink
+SB: 1 [MMA:25] Path to Exile
+SB: 4 [MM2:168] Vines of Vastwood
+SB: 2 [KTK:10] Feat of Resistance
+SB: 2 [DTK:221] Dromoka's Command
+SB: 1 [10E:45] Spirit Link
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,74)|([THS:13],[THS:13],[THS:13],[THS:13],[JOU:14],[JOU:14],[JOU:14],[JOU:14],[JOU:110],[JOU:110],[JOU:110],[JOU:110])([SOI:20],[SOI:20],[KTK:133],[KTK:133],[KTK:133],[KTK:133],[ULG:110],[ULG:110],[10E:45],[M12:24])([ROE:20],[ROE:20],[ROE:20],[ROE:20],[JOU:141],[JOU:141],[JOU:141],[JOU:141],[MM2:149],[MM2:149],[MM2:149],[MM2:149],[FRF:116],[FRF:116],[FRF:116],[FRF:116])([EXP:10],[EXP:20],[EXP:19],[SOI:274],[SOI:274],[ZEN:246],[ZEN:248],[ZEN:247],[ZEN:230],[ZEN:231],[ZEN:233],[ZEN:242],[ZEN:243],[ZEN:244],[ZEN:247],[ZEN:247],[ZEN:247],[ZEN:233],[ZEN:233],[ZEN:233],[ZEN:242],[ZEN:242])
+LAYOUT SIDEBOARD:(2,4)(CARD_TYPE,false,50)|([DTK:221],[DTK:221],[MM2:168],[MM2:168],[MM2:168],[MM2:168])()([M12:24])([10E:45])()([MMA:25])([KTK:10],[KTK:10])()

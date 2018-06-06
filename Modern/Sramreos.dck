@@ -1,0 +1,23 @@
+NAME:sramreos
+7 [SOM:231] Plains
+4 [SOM:174] Memnite
+4 [5DN:142] Paradise Mantle
+3 [M12:219] Swiftfoot Boots
+3 [MRD:181] Golem-Skin Gauntlets
+4 [ROE:4] Emrakul, the Aeons Torn
+4 [M15:242] Darksteel Citadel
+4 [EMN:41] Sigarda's Aid
+4 [NPH:20] Puresteel Paladin
+4 [M14:204] Accorder's Shield
+4 [MBS:145] Inkmoth Nexus
+4 [AER:23] Sram, Senior Edificer
+4 [EMN:192] Cathar's Shield
+3 [AER:169] Paradox Engine
+4 [SOM:179] Mox Opal
+SB: 3 [ZEN:206] Spidersilk Net
+SB: 1 [M12:219] Swiftfoot Boots
+SB: 3 [CON:15] Path to Exile
+SB: 4 [M11:21] Leyline of Sanctity
+SB: 4 [ZEN:19] Kor Duelist
+LAYOUT MAIN:(2,6)(CARD_TYPE,true,60)|([SOM:174],[SOM:174],[SOM:174],[SOM:174])()()([AER:23],[AER:23],[AER:23],[AER:23],[NPH:20],[NPH:20],[NPH:20],[NPH:20],[ROE:4],[ROE:4],[ROE:4],[ROE:4])()()()([M15:242],[M15:242],[M15:242],[M15:242])([EMN:192],[EMN:192],[EMN:192],[EMN:192],[SOM:179],[SOM:179],[SOM:179],[SOM:179],[5DN:142],[5DN:142],[5DN:142],[5DN:142],[AER:169],[AER:169],[AER:169],[M12:219],[M12:219],[M12:219],[MRD:181],[MRD:181],[MRD:181],[M14:204],[M14:204],[M14:204],[M14:204])()([EMN:41],[EMN:41],[EMN:41],[EMN:41])([SOM:231],[SOM:231],[SOM:231],[SOM:231],[SOM:231],[SOM:231],[SOM:231],[MBS:145],[MBS:145],[MBS:145],[MBS:145])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([M12:219])([M11:21],[M11:21],[M11:21],[M11:21])([CON:15],[CON:15],[CON:15])([ZEN:19],[ZEN:19],[ZEN:19],[ZEN:19])([ZEN:206],[ZEN:206],[ZEN:206])

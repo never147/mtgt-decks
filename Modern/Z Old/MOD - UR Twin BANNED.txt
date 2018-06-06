@@ -1,0 +1,31 @@
+4 Deceiver Exarch
+2 Kiki-Jiki, Mirror Breaker
+2 Spellskite
+3 Pestermite
+4 Preordain
+1 Sleight of Hand
+4 Ponder
+3 Firespout
+2 Pact of Negation
+1 Disrupting Shoal
+2 Dispel
+4 Remand
+1 Lightning Bolt
+4 Splinter Twin
+3 Mountain
+4 Cascade Bluffs
+5 Island
+3 Steam Vents
+4 Scalding Tarn
+3 Misty Rainforest
+1 Breeding Pool
+
+Sideboard
+2 Spellskite
+2 Lightning Bolt
+2 Ancient Grudge
+2 Dismember
+3 Blood Moon
+2 Engineered Explosives
+1 Deprive
+1 Vendilion Clique

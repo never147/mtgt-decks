@@ -1,0 +1,24 @@
+4 [SOI:170] Lightning Axe
+1 [AKH:151] Tormenting Voice
+4 [OGW:98] Kozilek's Return
+4 [EMN:5] Elder Deep-Fiend
+4 [SOI:90] Stitchwing Skaab
+4 [OGW:182] Wandering Fumarole
+3 [AKH:216] Reduce // Rubble
+4 [SOI:249] Prized Amalgam
+1 [EMN:12] Wretched Gryff
+3 [BFZ:242] Sanctum of Ugin
+4 [EMN:49] Advanced Stitchwing
+4 [KLD:109] Cathartic Reunion
+5 [AKH:251] Island
+4 [KLD:249] Spirebluff Canal
+4 [AKH:121] Bloodrage Brawler
+7 [AKH:253] Mountain
+SB: 1 [EMN:137] Nahiri's Wrath
+SB: 2 [AER:31] Disallow
+SB: 4 [SOI:244] Fevered Visions
+SB: 2 [AKH:136] Hazoret the Fervent
+SB: 3 [AKH:51] Drake Haven
+SB: 3 [AKH:141] Magma Spray
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,74)|([EMN:49],[EMN:49],[EMN:49],[EMN:49],[AKH:121],[AKH:121],[AKH:121],[AKH:121],[EMN:5],[EMN:5],[EMN:5],[EMN:5],[SOI:249],[SOI:249],[SOI:249],[SOI:249],[SOI:90],[SOI:90],[SOI:90],[SOI:90],[EMN:12])([AKH:216],[AKH:216],[AKH:216])([OGW:98],[OGW:98],[OGW:98],[OGW:98],[SOI:170],[SOI:170],[SOI:170],[SOI:170])([AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[BFZ:242],[BFZ:242],[BFZ:242],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[OGW:182],[OGW:182],[OGW:182],[OGW:182])([KLD:109],[KLD:109],[KLD:109],[KLD:109],[AKH:151])
+LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([AKH:136],[AKH:136])([AKH:51],[AKH:51],[AKH:51],[SOI:244],[SOI:244],[SOI:244],[SOI:244])([AER:31],[AER:31],[AKH:141],[AKH:141],[AKH:141])([EMN:137])

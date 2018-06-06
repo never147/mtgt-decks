@@ -1,0 +1,26 @@
+4 [AER:160] Inspiring Statuary
+12 [KLD:255] Island
+2 [KLD:252] Plains
+2 [SOI:58] Engulf the Shore
+3 [AKH:4] Approach of the Second Sun
+4 [OGW:161] Bone Saw
+4 [EMN:52] Contingency Plan
+4 [EMN:79] Unsubstantiate
+4 [AER:167] Ornithopter
+2 [BFZ:69] Anticipate
+4 [BFZ:241] Prairie Stream
+2 [OGW:56] Grip of the Roil
+3 [AER:169] Paradox Engine
+4 [SOI:278] Port Town
+4 [EMN:192] Cathar's Shield
+2 [SOI:252] Brain in a Jar
+SB: 2 [KLD:15] Fumigate
+SB: 2 [AKH:15] Gideon's Intervention
+SB: 1 [AKH:4] Approach of the Second Sun
+SB: 2 [EMN:57] Drag Under
+SB: 2 [AER:31] Disallow
+SB: 2 [SOI:12] Declaration in Stone
+SB: 2 [AKH:221] Failure // Comply
+SB: 2 [SOI:252] Brain in a Jar
+LAYOUT MAIN:(1,6)(CMC,false,74)|([KLD:255],[KLD:255],[KLD:255],[KLD:255],[KLD:255],[SOI:278],[SOI:278],[SOI:278],[SOI:278],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241],[KLD:252],[KLD:255],[KLD:255],[KLD:255],[KLD:255],[KLD:255],[KLD:255],[KLD:255],[AER:167],[AER:167],[AER:167],[AER:167],[EMN:192],[EMN:192],[EMN:192],[EMN:192],[OGW:161],[OGW:161],[OGW:161],[OGW:161],[KLD:252])([EMN:79],[EMN:79],[EMN:79],[EMN:79],[EMN:52],[EMN:52],[BFZ:69],[BFZ:69],[EMN:52],[EMN:52],[SOI:252],[SOI:252])([AER:160],[AER:160],[AER:160],[AER:160],[OGW:56],[OGW:56])([SOI:58],[SOI:58])([AER:169],[AER:169],[AER:169])([AKH:4],[AKH:4],[AKH:4])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([SOI:252],[SOI:252],[SOI:12],[SOI:12])([AER:31],[AER:31],[EMN:57],[EMN:57],[AKH:221],[AKH:221])([AKH:15],[AKH:15])([KLD:15],[KLD:15])([AKH:4])

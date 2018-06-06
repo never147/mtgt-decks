@@ -1,0 +1,37 @@
+2 Breeding Pool
+2 Flooded Strand
+2 Forest
+1 Hissing Quagmire
+2 Island
+2 Lumbering Falls
+1 Overgrown Tomb
+4 Polluted Delta
+2 Swamp
+1 Tectonic Edge
+2 Watery Grave
+2 Wooded Foothills
+3 Ancestral Vision
+3 Inquisition of Kozilek
+2 Languish
+1 Maelstrom Pulse
+3 Serum Visions
+1 Thoughtseize
+2 Scavenging Ooze
+3 Snapcaster Mage
+2 Tasigur, the Golden Fang
+3 Thing in the Ice
+4 Thragtusk
+3 Abrupt Decay
+2 Cryptic Command
+2 Dismember
+3 Mana Leak
+
+Sideboard
+2 Creeping Corrosion
+2 Dispel
+4 Feed the Clan
+1 Languish
+1 Night of Souls' Betrayal
+1 Sower of Temptation
+2 Spellskite
+2 Tormod's Crypt

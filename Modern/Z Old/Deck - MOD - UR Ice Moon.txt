@@ -1,0 +1,31 @@
+4 Snapcaster Mage
+4 Thing in the Ice
+2 Vendilion Clique
+4 Blood Moon
+4 Serum Visions
+4 Lightning Bolt
+4 Burst Lightning
+3 Electrolyze
+3 Cryptic Command
+3 Remand
+3 Mana Leak
+3 Spell Snare
+7 Island
+1 Mountain
+2 Steam Vents
+2 Sulfur Falls
+2 Polluted Delta
+4 Scalding Tarn
+2 Flooded Strand
+1 Desolate Lighthouse
+
+Sideboard
+2 Batterskull
+1 Vedalken Shackles
+1 Keranos, God of Storms
+2 Spreading Seas
+2 Anger of the Gods
+2 Dispel
+1 Izzet Staticaster
+2 Spellskite
+2 Vandalblast

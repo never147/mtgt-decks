@@ -1,0 +1,33 @@
+2 [SOI:181] Sin Prodder
+1 [SOI:192] Wolf of Devil's Breach
+1 [KLD:199] Bomat Courier
+3 [EMN:118] Bedlam Reveler
+4 [EMN:129] Galvanic Bombardment
+1 [EMN:136] Mirrorwing Dragon
+1 [AKH:117] Ahn-Crop Crasher
+1 [BFZ:162] Zada, Hedron Grinder
+1 [EMN:132] Impetuous Devils
+1 [EMN:197] Lupine Prototype
+2 [AKH:229] Hazoret's Monument
+1 [AKH:118] Battlefield Scavenger
+2 [AKH:145] Nimble-Blade Khenra
+2 [SOI:166] Incorrigible Youths
+2 [AKH:125] Combat Celebrant
+1 [AKH:131] Flameblade Adept
+2 [AKH:120] Bloodlust Inciter
+1 [SOI:163] Harness the Storm
+2 [AKH:141] Magma Spray
+4 [KLD:109] Cathartic Reunion
+22 [BFZ:265b] Mountain
+1 [AKH:133] Glorious End
+2 [AKH:132] Fling
+SB: 2 [OGW:107] Embodiment of Fury
+SB: 2 [AER:178] Universal Solvent
+SB: 2 [KLD:113] Demolish
+SB: 1 [AKH:213] Insult // Injury
+SB: 3 [KLD:208] Dynavolt Tower
+SB: 2 [AER:83] Gremlin Infestation
+SB: 1 [AKH:133] Glorious End
+SB: 2 [AKH:132] Fling
+LAYOUT MAIN:(1,7)(CMC,false,74)|([BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b],[BFZ:265b])([AKH:120],[AKH:120],[KLD:199],[AKH:131],[AKH:141],[AKH:141],[EMN:129],[EMN:129],[EMN:129],[EMN:129])([AKH:118],[EMN:197],[AKH:145],[AKH:145],[KLD:109],[KLD:109],[KLD:109],[KLD:109],[AKH:132],[AKH:132])([AKH:117],[AKH:125],[AKH:125],[SOI:181],[SOI:181],[SOI:163],[AKH:133],[AKH:229],[AKH:229])([BFZ:162],[EMN:132])([SOI:192],[SOI:166],[SOI:166],[EMN:136])([EMN:118],[EMN:118],[EMN:118])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([AER:178],[AER:178])([AKH:132],[AKH:132])([KLD:208],[KLD:208],[KLD:208],[AKH:133])([KLD:113],[KLD:113],[OGW:107],[OGW:107],[AER:83],[AER:83])([AKH:213])

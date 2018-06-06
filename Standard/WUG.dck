@@ -1,0 +1,32 @@
+3 [XLN:34] Settle the Wreckage
+3 [XLN:249] Thaumatic Compass
+1 [HOU:182] Scavenger Grounds
+3 [KLD:15] Fumigate
+2 [HOU:172] Desert of the Indomitable
+1 [HOU:183] Shefet Dunes
+2 [AKH:8] Cast Out
+3 [KLD:244] Botanical Sanctum
+4 [HOU:180] Ipnu Rivulet
+3 [XLN:257] Sunpetal Grove
+3 [AKH:4] Approach of the Second Sun
+2 [AKH:52] Essence Scatter
+2 [XLN:74] Search for Azcanta
+1 [RIX:193] Island
+4 [AKH:219] Spring // Mind
+2 [RIX:192] Plains
+3 [RIX:1] Baffling End
+1 [RIX:185] Arch of Orazca
+2 [RIX:196] Forest
+4 [AKH:245] Irrigated Farmland
+3 [AKH:167] Gift of Paradise
+3 [XLN:17] Ixalan's Binding
+4 [HOU:120] Hour of Promise
+1 [HOU:177] Hashep Oasis
+SB: 2 [KLD:5] Authority of the Consuls
+SB: 2 [XLN:179] Carnage Tyrant
+SB: 4 [AKH:24] Regal Caracal
+SB: 3 [RIX:44] Negate
+SB: 2 [HOU:38] Jace's Defeat
+SB: 2 [HOU:8] Desert's Hold
+LAYOUT MAIN:(2,7)(CMC,true,60)|()()()()()()()([RIX:185],[KLD:244],[KLD:244],[KLD:244],[HOU:172],[HOU:172],[RIX:196],[RIX:196],[HOU:177],[HOU:180],[HOU:180],[HOU:180],[HOU:180],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[RIX:193],[RIX:192],[RIX:192],[HOU:182],[HOU:183],[XLN:257],[XLN:257],[XLN:257])([RIX:1],[RIX:1],[RIX:1],[AKH:52],[AKH:52],[XLN:74],[XLN:74],[XLN:249],[XLN:249],[XLN:249])([AKH:167],[AKH:167],[AKH:167])([AKH:8],[AKH:8],[XLN:17],[XLN:17],[XLN:17],[XLN:34],[XLN:34],[XLN:34])([KLD:15],[KLD:15],[KLD:15],[HOU:120],[HOU:120],[HOU:120],[HOU:120])([AKH:4],[AKH:4],[AKH:4])([AKH:219],[AKH:219],[AKH:219],[AKH:219])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([KLD:5],[KLD:5])([HOU:38],[HOU:38],[RIX:44],[RIX:44],[RIX:44])([HOU:8],[HOU:8])([AKH:24],[AKH:24],[AKH:24],[AKH:24])([XLN:179],[XLN:179])

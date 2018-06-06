@@ -1,0 +1,30 @@
+NAME:Bouncy Wizards
+3 [AER:28] Baral, Chief of Compliance
+2 [XLN:149] Lightning Strike
+2 [DOM:75] Wizard's Retort
+3 [DOM:59] Naru Meha, Master Wizard
+3 [AER:36] Illusionist's Stratagem
+3 [RIX:46] Release to the Wind
+2 [XLN:79] Siren Stormtamer
+2 [HOU:49] Supreme Will
+3 [DOM:152] Wizard's Lightning
+4 [DOM:126] Ghitu Journeymage
+4 [DOM:247] Sulfur Falls
+4 [HOU:31] Champion of Wits
+2 [AER:98] Shock
+2 [AKH:148] Soul-Scar Mage
+12 [AKH:251] Island
+4 [KLD:249] Spirebluff Canal
+2 [DOM:60] Opt
+3 [AKH:253] Mountain
+SB: 2 [DOM:119] Fight with Fire
+SB: 2 [HOU:83] Abrade
+SB: 1 [DOM:75] Wizard's Retort
+SB: 2 [AKH:149] Sweltering Suns
+SB: 2 [XLN:79] Siren Stormtamer
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 2 [AER:31] Disallow
+SB: 1 [HOU:156] Refuse // Cooperate
+SB: 2 [DOM:41] Academy Journeymage
+LAYOUT MAIN:(2,5)(CMC,true,60)|()([XLN:79],[XLN:79],[AKH:148],[AKH:148])([AER:28],[AER:28],[AER:28])([HOU:31],[HOU:31],[HOU:31],[HOU:31],[DOM:126],[DOM:126],[DOM:126],[DOM:126])([DOM:59],[DOM:59],[DOM:59])([AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:253],[AKH:253],[AKH:253],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[AKH:251],[DOM:247],[DOM:247],[DOM:247],[DOM:247])([DOM:60],[DOM:60],[AER:98],[AER:98])([XLN:149],[XLN:149])([RIX:46],[RIX:46],[RIX:46],[HOU:49],[HOU:49],[DOM:152],[DOM:152],[DOM:152],[DOM:75],[DOM:75])([AER:36],[AER:36],[AER:36])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([XLN:79],[XLN:79])([HOU:83],[HOU:83])([AKH:149],[AKH:149],[AER:31],[AER:31],[DOM:75],[DOM:119],[DOM:119])([KLD:110])([DOM:41],[DOM:41])([HOU:156])

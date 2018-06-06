@@ -1,0 +1,71 @@
+Delver
+Add: 3 Pyroblast, 1 Electrickery, 1 Diabolic Edict
+Remove: 4 Mana Leak, 1 Crypt Incursion, 
+
+Burn
+Add: 1 Circle of Protection: Red, 1 Snow-Covered Plains, 1 Muddle the Mixture, 1 Hydroblast, 1 Serene Heart, 2 Relic of Progenitus
+Remove: 3 Skred, 1 Diabolic Edict, 1 Terminate, 1 Electrickery, 1 Crypt Incursion
+
+Affinity
+Add: 1 Diabolic Edict, 1 Hydroblast, 2 Ancient Grudge
+Remove: 1 Electrickery, 1 Sprout Swarm, 2 Staggershock
+
+Familiar
+Add: 1 Electrickery, 3 Pyroblast, 2 Relic of Progenitus
+Remove: 4 Mana Leak, 1 Logic Knot, 1 Diabolic Edict
+
+Kuldotha Jeskai
+Add: 2 Ancient Grudge, 3 Pyroblast, 1 Hydroblast
+Remove: 1 Electrickery, 4 Mana Leak, 1 Logic Knot
+
+MBC
+Add: 2 Relic of Progenitus, 1 Muddle the Mixture
+Remove: 1 Electrickery, 1 Pyroblast, 1 Diabolic Edict
+
+Angler
+Add: 1 Diabolic Edict, 3 Pyroblast
+Remove: 2 Staggershock, 1 Electrickery, 1 Logic Knot
+
+RUG Tron
+Add: 3 Pyroblast, 1 Hydroblast, 1 Diabolic Edict, 1 Muddle the Mixture, 2 Ancient Grudge
+Remove: 4 Mana Leak, 1 Logic Knot, 1 Electrickery, 2 Staggershock
+
+Elves
+Add: 1 Electrickery,
+Remove: 1 Diabolic Edict
+
+UB Teachings
+Add: 3 Pyroblast, 1 Muddle the Mixture, 2 Relic of Progenitus
+Remove: 1 Terminate, 1 Diabolic Edict, 1 Electrickery, 1 Crypt Incursion, 2 Skred 
+
+Acid Trip
+Add: 3 Pyroblast, 1 Diabolic Edict
+Remove: 1 Electrickery, 1 Crypt Incursion, 2 Staggershock
+
+Fiend
+Add: 1 Hydroblast, 1 Diabolic Edict, 3 Pyroblast
+Remove: 1 Electrickery, 2 Staggershock, 1 Crypt Incursion, 1 Sprout Swarm
+
+Stompy
+Add: 1 Diabolic Edict
+Remove: 1 Sprout Swarm
+
+White Tokens
+Add: 1 Electrickery
+Remove: 1 Diabolic Edict
+
+MUC(w/ Delvers) 
+Add: 3 Pyroblast, 1 Muddle the Mixture, 1 Serene Heart
+Remove: 1 Electrickery, 1 Crypt Incursion, 2 Staggershock, 1 Lightning Bolt
+
+Goblins
+Add: 1 Diabolic Edict, 1 Electrickery, 1 Hydroblast, 1 Circle of Protection: Red, 1 Snow-covered Plains, 2 Ancient Grudge
+Remove: 4 Counterspell, 1 Logic Knot, 1 Pyroblast, 1 Snow-Covered Island
+
+Hexproof
+Add: 1 Electrickery, 1 Serene Heart, 1 Diabolic Edict
+Remove: 1 Logic Knot, 1 Crypt Incursion, 1 Sprout Swarm
+
+Tortured Existence
+Add: 2 Relic of Progenitus 
+Remove: 1 Electrickery, 1 Diabolic Edict

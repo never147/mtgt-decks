@@ -1,0 +1,33 @@
+4 Arbor Elf
+4 Birds of Paradise
+1 Bonfire of the Damned
+4 Burning-Tree Emissary
+1 Craterhoof Behemoth
+2 Dismember
+1 Dragonlord Atarka
+2 Eternal Witness
+8 Forest
+1 Kessig Wolf Run
+1 Noble Hierarch
+4 Nykthos, Shrine to Nyx
+3 Oath of Nissa
+1 Polukranos, World Eater
+3 Primal Command
+4 Primeval Titan
+2 Stomping Ground
+4 Utopia Sprawl
+2 Wall of Roots
+3 Windswept Heath
+2 Wistful Selkie
+3 Wooded Foothills
+
+Sideboard
+1 Ancient Grudge
+2 Bonfire of the Damned
+1 Courser of Kruphix
+2 Creeping Corrosion
+1 Primal Command
+1 Scavenging Ooze
+3 Stone Rain
+3 Thragtusk
+1 Yavimaya Dryad

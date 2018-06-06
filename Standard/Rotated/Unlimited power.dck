@@ -1,0 +1,27 @@
+4 [ATQ:85] Urza's Tower
+4 [AER:184] Spire of Industry
+2 [SOM:195] Prototype Portal
+4 [MRD:281] Glimmervoid
+4 [ATQ:77] Urza's Mine
+4 [GTC:106] Skullcrack
+4 [SOM:190] Palladium Myr
+4 [ATQ:80] Urza's Power Plant
+4 [MPS:43] Paradox Engine
+2 [MPRP:51] Doom Blade
+2 [FNMP:171] Bile Blight
+4 [MPRP:8] Mana Leak
+2 [KLD:247] Inventors' Fair
+4 [V10:3] Isochron Scepter
+4 [FNMP:104] Magma Jet
+2 [MM2:213] Expedition Map
+2 [GRC:4] Boomerang
+4 [BFZ:223] Hedron Archive
+SB: 2 [FNMP:171] Bile Blight
+SB: 4 [FNMP:185] Ultimate Price
+SB: 2 [SOM:195] Prototype Portal
+SB: 1 [GPX:9] All Is Dust
+SB: 2 [GRC:4] Boomerang
+SB: 2 [MPRP:40] Lightning Bolt
+SB: 2 [MPRP:51] Doom Blade
+LAYOUT MAIN:(1,6)(CMC,false,74)|([MRD:281],[MRD:281],[MRD:281],[MRD:281],[KLD:247],[KLD:247],[AER:184],[AER:184],[AER:184],[AER:184],[ATQ:77],[ATQ:77],[ATQ:77],[ATQ:77],[ATQ:80],[ATQ:80],[ATQ:80],[ATQ:80],[ATQ:85],[ATQ:85],[ATQ:85],[ATQ:85])([MM2:213],[MM2:213])([FNMP:171],[FNMP:171],[GRC:4],[GRC:4],[MPRP:51],[MPRP:51],[V10:3],[V10:3],[V10:3],[V10:3],[FNMP:104],[FNMP:104],[FNMP:104],[FNMP:104],[MPRP:8],[MPRP:8],[MPRP:8],[MPRP:8],[GTC:106],[GTC:106],[GTC:106],[GTC:106])([SOM:190],[SOM:190],[SOM:190],[SOM:190])([BFZ:223],[BFZ:223],[BFZ:223],[BFZ:223],[SOM:195],[SOM:195])([MPS:43],[MPS:43],[MPS:43],[MPS:43])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([MPRP:40],[MPRP:40])([MPRP:51],[MPRP:51],[FNMP:185],[FNMP:185],[FNMP:185],[FNMP:185],[GRC:4],[GRC:4],[FNMP:171],[FNMP:171])([SOM:195],[SOM:195])([GPX:9])

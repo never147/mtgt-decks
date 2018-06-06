@@ -1,0 +1,20 @@
+4 [KLD:25] Refurbish
+4 [HOU:161] God-Pharaoh's Gift
+1 [KLD:96] Noxious Gearhulk
+4 [XLN:48] Chart a Course
+1 [KLD:222] Metalwork Colossus
+2 [KLD:220] Key to the City
+4 [HOU:47] Strategic Planning
+2 [AKH:71] Slither Blade
+1 [HOU:63] Dreamstealer
+4 [KLD:4] Angel of Invention
+2 [AKH:27] Sacred Cat
+2 [KLD:9] Cataclysmic Gearhulk
+4 [RIX:2] Bishop of Binding
+4 [HOU:31] Champion of Wits
+1 [RIX:30] Zetalpa, Primal Dawn
+1 [RIX:82] Ravenous Chupacabra
+1 [AER:62] Glint-Sleeve Siphoner
+SB: 2 [AKH:74] Vizier of Many Faces
+LAYOUT MAIN:(2,9)(CMC,true,60)|([AKH:27],[AKH:27],[AKH:71],[AKH:71])([AER:62])([HOU:31],[HOU:31],[HOU:31],[HOU:31],[HOU:63])([RIX:2],[RIX:2],[RIX:2],[RIX:2],[RIX:82])([KLD:9],[KLD:9],[KLD:4],[KLD:4],[KLD:4],[KLD:4])([KLD:96])()([RIX:30])([KLD:222])()([XLN:48],[XLN:48],[XLN:48],[XLN:48],[HOU:47],[HOU:47],[HOU:47],[HOU:47],[KLD:220],[KLD:220])()([KLD:25],[KLD:25],[KLD:25],[KLD:25])()()([HOU:161],[HOU:161],[HOU:161],[HOU:161])()()
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([AKH:74],[AKH:74])

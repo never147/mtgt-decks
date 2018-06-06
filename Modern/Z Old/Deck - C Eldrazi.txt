@@ -1,0 +1,26 @@
+3 Blinkmoth Nexus
+4 Chalice of the Void
+4 Dismember
+4 Eldrazi Mimic
+4 Eldrazi Temple
+2 Endbringer
+4 Endless One
+4 Eye of Ugin
+4 Ghost Quarter
+4 Matter Reshaper
+4 Mutavault
+2 Ratchet Bomb
+4 Reality Smasher
+4 Simian Spirit Guide
+4 Thought-Knot Seer
+3 Urborg, Tomb of Yawgmoth
+2 Wastes
+
+Sideboard
+3 Gut Shot
+2 Oblivion Sower
+1 Ratchet Bomb
+4 Relic of Progenitus
+1 Sea Gate Wreckage
+2 Spellskite
+2 Warping Wail

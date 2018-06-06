@@ -1,0 +1,32 @@
+4 [THS:13] Favored Hoplite
+4 [JOU:14] Lagonna-Band Trailblazer
+2 [BNG:3] Akroan Skyguard
+1 [ZEN:230] Plains
+1 [EXP:10] Temple Garden
+5 [ZEN:231] Plains
+4 [ZEN:233] Plains
+4 [ROE:20] Emerge Unscathed
+1 [EXP:20] Windswept Heath
+2 [M14:176] Gladecover Scout
+4 [KTK:133] Hardened Scales
+2 [ZEN:246] Forest
+2 [MM2:14] Daybreak Coronet
+5 [ZEN:247] Forest
+1 [ZEN:248] Forest
+2 [MM2:168] Vines of Vastwood
+4 [JOU:141] Solidarity of Heroes
+2 [KLD:146] Blossoming Defense
+4 [ULG:110] Rancor
+4 [MM2:149] Mutagenic Growth
+2 [SOI:274] Fortified Village
+SB: 2 [M12:24] Lifelink
+SB: 1 [MM3:221] Grafdigger's Cage
+SB: 1 [MMA:25] Path to Exile
+SB: 2 [ISD:240] Ghost Quarter
+SB: 2 [MM2:168] Vines of Vastwood
+SB: 2 [KTK:10] Feat of Resistance
+SB: 2 [DTK:221] Dromoka's Command
+SB: 1 [SOI:20] Gryff's Boon
+SB: 2 [CMD:23] Oblivion Ring
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,74)|([BNG:3],[BNG:3],[THS:13],[THS:13],[THS:13],[THS:13],[M14:176],[M14:176],[JOU:14],[JOU:14],[JOU:14],[JOU:14])([MM2:14],[MM2:14],[KTK:133],[KTK:133],[KTK:133],[KTK:133],[ULG:110],[ULG:110],[ULG:110],[ULG:110])([KLD:146],[KLD:146],[ROE:20],[ROE:20],[ROE:20],[ROE:20],[MM2:149],[MM2:149],[MM2:149],[MM2:149],[JOU:141],[JOU:141],[JOU:141],[JOU:141],[MM2:168],[MM2:168])([ZEN:246],[ZEN:247],[ZEN:247],[ZEN:247],[ZEN:247],[ZEN:248],[ZEN:246],[ZEN:247],[SOI:274],[SOI:274],[ZEN:230],[ZEN:231],[ZEN:233],[ZEN:233],[ZEN:233],[ZEN:233],[ZEN:231],[ZEN:231],[ZEN:231],[ZEN:231],[EXP:10],[EXP:20])
+LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([MM3:221])([SOI:20],[M12:24],[M12:24],[CMD:23],[CMD:23])([DTK:221],[DTK:221],[KTK:10],[KTK:10],[MMA:25],[MM2:168],[MM2:168])([ISD:240],[ISD:240])

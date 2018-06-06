@@ -1,0 +1,34 @@
+4 Dark Confidant
+4 Tidehollow Sculler
+3 Meddling Mage
+2 Phyrexian Revoker
+2 Serra Avenger
+3 Wasteland Strangler
+3 Fiend Hunter
+4 Flickerwisp
+4 Path to Exile
+2 Inquisition of Kozilek
+2 Thoughtseize
+4 Aether Vial
+1 Elspeth, Knight-Errant
+4 Flooded Strand
+4 Ghost Quarter
+2 Godless Shrine
+1 Hallowed Fountain
+3 Marsh Flats
+3 Plains
+2 Shambling Vent
+1 Shizo, Death's Storehouse
+1 Swamp
+1 Watery Grave
+
+Sideboard
+1 Baneslayer Angel
+2 Engineered Explosives
+2 Ethersworn Canonist
+2 Geist of Saint Traft
+2 Leyline of Sanctity
+1 Pithing Needle
+2 Runed Halo
+1 Spellskite
+2 Zealous Persecution

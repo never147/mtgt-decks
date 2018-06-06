@@ -1,0 +1,34 @@
+2 [KLD:13] Fairgrounds Warden
+2 [SOI:1] Always Watching
+2 [OGW:20] Immolating Glare
+2 [KLD:1] Acrobatic Maneuver
+1 [SOI:5] Archangel Avacyn
+2 [SOI:81] Rattlechains
+2 [KLD:5] Authority of the Consuls
+2 [OGW:173] Meandering River
+2 [EMN:40] Selfless Spirit
+2 [EMN:189] Spell Queller
+2 [EMN:55] Displace
+2 [SOI:45] Topplegeist
+2 [EMN:47] Thalia's Lancers
+2 [EMN:69] Mausoleum Wanderer
+2 [KLD:226] Panharmonicon
+2 [BFZ:58] Eldrazi Skyspawner
+1 [EMN:15] Bruna, the Fading Light
+2 [SOI:44] Thraben Inspector
+2 [SOI:278] Port Town
+2 [EMN:28] Gisela, the Broken Blade
+9 [JR:90] Island
+10 [UNH:136] Plains
+4 [SOI:61] Essence Flux
+SB: 2 [KLD:14] Fragmentize
+SB: 2 [AKH:15] Gideon's Intervention
+SB: 2 [AKH:46] Censor
+SB: 2 [EMN:13] Blessed Alliance
+SB: 2 [SOI:12] Declaration in Stone
+SB: 1 [SOI:13] Descend upon the Sinful
+SB: 1 [EMN:15] Bruna, the Fading Light
+SB: 2 [AKH:1] Angel of Sanctions
+SB: 1 [KLD:1] Acrobatic Maneuver
+LAYOUT MAIN:(2,7)(CMC,true,74)|()([EMN:69],[EMN:69],[SOI:44],[SOI:44],[SOI:45],[SOI:45])([SOI:81],[SOI:81],[EMN:40],[EMN:40])([BFZ:58],[BFZ:58],[EMN:189],[EMN:189],[KLD:13],[KLD:13])([EMN:28],[EMN:28])([SOI:5],[EMN:47],[EMN:47])([EMN:15])([JR:90],[JR:90],[JR:90],[JR:90],[JR:90],[JR:90],[JR:90],[JR:90],[JR:90],[OGW:173],[OGW:173],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[SOI:278],[SOI:278])([KLD:5],[KLD:5],[SOI:61],[SOI:61],[SOI:61],[SOI:61])([OGW:20],[OGW:20])([KLD:1],[KLD:1],[SOI:1],[SOI:1],[EMN:55],[EMN:55])([KLD:226],[KLD:226])()()
+LAYOUT SIDEBOARD:(2,6)(CMC,false,50)|([KLD:14],[KLD:14],[KLD:1])([EMN:13],[EMN:13],[AKH:46],[AKH:46])()([AKH:15],[AKH:15])([SOI:13])([EMN:15])([SOI:12],[SOI:12])()([AKH:1],[AKH:1])()()()

@@ -1,0 +1,30 @@
+1 Academy Ruins
+4 Chromatic Star
+3 Conjurer's Bauble
+4 Darksteel Citadel
+1 Emrakul, the Aeons Torn
+4 Flooded Strand
+3 Ghirapur Aether Grid
+3 Glimmervoid
+1 Hallowed Fountain
+4 Ichor Wellspring
+2 Island
+4 Krark-Clan Ironworks
+4 Mox Opal
+1 Mystic Gate
+4 Open the Vaults
+2 Plains
+4 Prophetic Prism
+1 Sacred Foundry
+4 Sword of the Meek
+2 Terrarion
+4 Thopter Foundry
+
+Sideboard
+1 Ancient Grudge
+1 Engineered Explosives
+4 Erase
+3 Hurkyl's Recall
+3 Path to Exile
+1 Silence
+2 Surgical Extraction

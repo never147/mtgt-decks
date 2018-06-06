@@ -1,0 +1,29 @@
+4 Insolent Neonate
+4 Faithless Looting
+3 Stinkweed Imp
+4 Golgari Grave-Troll
+4 Vengevine
+3 Prized Amalgam
+4 Gravecrawler
+4 Bloodghast
+4 Blackcleave Cliffs
+3 Wooded Foothills
+4 Bloodstained Mire
+1 Forest
+4 Blood Crypt
+1 Overgrown Tomb
+1 Stomping Ground
+2 Verdant Catacombs
+2 Dakmor Salvage
+1 Shambling Shell
+3 Golgari Thug
+1 Mountain
+2 Lotleth Troll
+1 Conflagrate
+
+Sideboard
+3 Ancient Grudge
+3 Gnaw to the Bone
+4 Abrupt Decay
+4 Thoughtseize
+1 Darkblast

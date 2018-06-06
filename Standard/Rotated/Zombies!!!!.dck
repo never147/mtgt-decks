@@ -1,0 +1,21 @@
+4 [EMN:86] Cryptbreaker
+1 [EMN:87] Dark Salvation
+4 [OGW:85] Grasp of Darkness
+1 [KLD:92] Midnight Oil
+2 [AKH:212] Never // Return
+4 [AKH:88] Dread Wanderer
+4 [AKH:99] Lord of the Accursed
+4 [AKH:87] Doomed Dissenter
+4 [AKH:98] Liliana's Mastery
+4 [AKH:104] Plague Belcher
+24 [AKH:252] Swamp
+4 [SOI:131] Relentless Dead
+SB: 2 [EMN:97] Murder
+SB: 2 [AKH:106] Scarab Feast
+SB: 1 [KLD:88] Lost Legacy
+SB: 1 [KLD:92] Midnight Oil
+SB: 2 [AKH:212] Never // Return
+SB: 4 [AKH:112] Trespasser's Curse
+SB: 3 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,74)|([EMN:86],[EMN:86],[EMN:86],[EMN:86],[AKH:87],[AKH:87],[AKH:87],[AKH:87],[AKH:88],[AKH:88],[AKH:88],[AKH:88],[AKH:99],[AKH:99],[AKH:99],[AKH:99],[AKH:104],[AKH:104],[AKH:104],[AKH:104],[SOI:131],[SOI:131],[SOI:131],[SOI:131])([AKH:98],[AKH:98],[AKH:98],[AKH:98],[KLD:92])([OGW:85],[OGW:85],[OGW:85],[OGW:85])([AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252])([EMN:87],[AKH:212],[AKH:212])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,50)|([KLD:92],[AKH:112],[AKH:112],[AKH:112],[AKH:112])([EMN:97],[EMN:97],[AKH:106],[AKH:106])([KLD:88],[AKH:212],[AKH:212],[BFZ:101],[BFZ:101],[BFZ:101])

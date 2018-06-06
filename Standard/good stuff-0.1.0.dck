@@ -1,0 +1,28 @@
+4 [AER:181] Walking Ballista
+2 [XLN:105] Duress
+2 [XLN:129] Vraska's Contempt
+4 [AER:57] Fatal Push
+4 [KLD:243] Blooming Marsh
+4 [KLD:244] Botanical Sanctum
+4 [KLD:231] Scrapheap Scrounger
+2 [RIX:44] Negate
+4 [RIX:136] Jadelight Ranger
+2 [DOM:199] Muldrotha, the Gravetide
+2 [XLN:232] Vraska, Relic Seeker
+2 [DOM:240] Hinterland Harbor
+4 [RIX:148] Thrashing Brontodon
+3 [DOM:248] Woodland Cemetery
+4 [DOM:168] Llanowar Elves
+4 [AKH:252] Swamp
+3 [RIX:82] Ravenous Chupacabra
+2 [AKH:251] Island
+4 [AKH:254] Forest
+SB: 2 [XLN:248] Sorcerous Spyglass
+SB: 2 [XLN:105] Duress
+SB: 2 [AER:31] Disallow
+SB: 2 [HOU:145] The Scarab God
+SB: 2 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [RIX:73] Golden Demise
+SB: 4 [AER:153] Heart of Kiran
+LAYOUT MAIN:(2,6)(CMC,true,60)|([AER:181],[AER:181],[AER:181],[AER:181])([DOM:168],[DOM:168],[DOM:168],[DOM:168])([KLD:231],[KLD:231],[KLD:231],[KLD:231])([RIX:148],[RIX:148],[RIX:148],[RIX:148],[RIX:136],[RIX:136],[RIX:136],[RIX:136])([RIX:82],[RIX:82],[RIX:82])([DOM:199],[DOM:199])([DOM:248],[DOM:248],[DOM:248],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[KLD:244],[KLD:244],[KLD:244],[KLD:244],[DOM:240],[DOM:240],[AKH:251],[AKH:251],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:252],[AKH:252],[AKH:252],[AKH:252])([XLN:105],[XLN:105],[AER:57],[AER:57],[AER:57],[AER:57])([RIX:44],[RIX:44])()([XLN:129],[XLN:129])([XLN:232],[XLN:232])
+LAYOUT SIDEBOARD:(2,5)(CMC,false,50)|([XLN:248],[XLN:248])([AER:153],[AER:153],[AER:153],[AER:153])([AER:31],[AER:31],[RIX:73])([KLD:84],[KLD:84])([HOU:145],[HOU:145])([XLN:105],[XLN:105])()()()()

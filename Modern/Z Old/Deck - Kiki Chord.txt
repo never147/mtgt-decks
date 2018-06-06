@@ -1,0 +1,46 @@
+1 Big Game Hunter
+4 Birds of Paradise
+4 Chord of Calling
+2 Courser of Kruphix
+2 Eternal Witness
+1 Fire-Lit Thicket
+2 Forest
+1 Ghost Quarter
+1 Horizon Canopy
+1 Kiki-Jiki, Mirror Breaker
+1 Lone Missionary
+1 Mountain
+1 Myr Superion
+1 Orzhov Pontiff
+1 Overgrown Tomb
+4 Path to Exile
+2 Pia and Kiran Nalaar
+1 Plains
+1 Qasali Pridemage
+1 Raging Ravine
+2 Razorverge Thicket
+3 Restoration Angel
+1 Reveillark
+1 Sacred Foundry
+1 Scavenging Ooze
+1 Spellskite
+2 Stomping Ground
+1 Temple Garden
+3 Voice of Resurgence
+3 Wall of Omens
+2 Wall of Roots
+4 Windswept Heath
+4 Wooded Foothills
+
+Sideboard
+2 Dismember
+1 Eidolon of Rhetoric
+2 Fulminator Mage
+2 Lightning Helix
+1 Obstinate Baloth
+1 Phyrexian Revoker
+1 Reclamation Sage
+1 Scavenging Ooze
+1 Sin Collector
+1 Spellskite
+2 Stony Silence

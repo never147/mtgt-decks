@@ -1,0 +1,32 @@
+3 Angelic Renewal
+3 Dead Weight
+1 Ethereal Armor
+1 Faith's Fetters
+1 Oblivion Ring
+3 Pestilence
+1 Seal of Doom
+1 Shade's Form
+1 Temporal Isolation
+4 Auramancer
+1 Gravedigger
+3 Gray Merchant of Asphodel
+3 Heliod's Pilgrim
+2 Kor Skyfisher
+2 Lone Missionary
+4 Phyrexian Rager
+2 Orzhov Basilica
+4 Orzhov Guildgate
+3 Plains
+4 Scoured Barrens
+9 Swamp
+4 Cloudshift
+
+Sideboard
+1 Chime of Night
+4 Duress
+1 Font of Return
+2 Lone Missionary
+2 Mournwhelk
+1 Pestilence
+3 Seal of Cleansing
+1 Temporal Isolation

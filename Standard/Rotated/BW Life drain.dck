@@ -1,0 +1,33 @@
+2 [AKH:281] Forsaken Sanctuary
+1 [BFZ:107] Defiant Bloodlord
+9 [AKH:250] Plains
+2 [KLD:183] Kambal, Consul of Allocation
+1 [KLD:96] Noxious Gearhulk
+2 [AER:57] Fatal Push
+2 [KLD:87] Live Fast
+2 [EMN:109] Tree of Perdition
+3 [KLD:2] Aerial Responder
+2 [AKH:82] Bontu the Glorified
+2 [OGW:151] Ayli, Eternal Pilgrim
+4 [AKH:27] Sacred Cat
+2 [BFZ:210] Drana's Emissary
+2 [AKH:112] Trespasser's Curse
+2 [AKH:225] Bontu's Monument
+4 [BFZ:126] Zulaport Cutthroat
+9 [AKH:252] Swamp
+2 [AER:61] Gifted Aetherborn
+2 [AER:62] Glint-Sleeve Siphoner
+2 [AER:63] Gonti's Machinations
+3 [BFZ:244] Shambling Vent
+SB: 1 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [KLD:15] Fumigate
+SB: 3 [AKH:8] Cast Out
+SB: 1 [KLD:85] Harsh Scrutiny
+SB: 1 [AER:75] Yahenni's Expertise
+SB: 2 [AKH:112] Trespasser's Curse
+SB: 1 [KLD:84] Gonti, Lord of Luxury
+SB: 2 [AKH:86] Dispossess
+SB: 2 [BFZ:101] Transgress the Mind
+SB: 1 [AER:74] Yahenni, Undying Partisan
+LAYOUT MAIN:(2,7)(CMC,true,74)|()([AKH:27],[AKH:27],[AKH:27],[AKH:27])([OGW:151],[OGW:151],[AER:61],[AER:61],[AER:62],[AER:62],[BFZ:126],[BFZ:126],[BFZ:126],[BFZ:126])([KLD:2],[KLD:2],[KLD:2],[AKH:82],[AKH:82],[BFZ:210],[BFZ:210],[KLD:183],[KLD:183])([EMN:109],[EMN:109])([KLD:96])([BFZ:107])([AKH:281],[AKH:281],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[BFZ:244],[BFZ:244],[BFZ:244],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252])([AER:57],[AER:57],[AER:63],[AER:63])([AKH:112],[AKH:112])([AKH:225],[AKH:225],[KLD:87],[KLD:87])()()()
+LAYOUT SIDEBOARD:(2,5)(CMC,false,50)|([KLD:85])([BFZ:101],[BFZ:101])([AKH:86],[AKH:86],[AER:74])([AKH:8],[AKH:8],[AKH:8],[KLD:84],[AER:75])([KLD:15],[BFZ:119])()([AKH:112],[AKH:112])()()()

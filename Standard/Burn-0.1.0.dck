@@ -1,0 +1,32 @@
+4 [XLN:149] Lightning Strike
+2 [UST:215] Mountain
+2 [KLD:110] Chandra, Torch of Defiance
+2 [DOM:132] Jaya Ballard
+4 [ZEN:242] Mountain
+3 [ZEN:243] Mountain
+4 [RIX:101] Fanatical Firebrand
+1 [ZEN:244] Mountain
+2 [DOM:129] Goblin Chainwhirler
+4 [HOU:83] Abrade
+2 [ZEN:245] Mountain
+3 [AKH:249] Sunscorched Desert
+4 [AER:98] Shock
+1 [BFZ:269b] Mountain
+4 [AKH:148] Soul-Scar Mage
+2 [AKH:136] Hazoret the Fervent
+4 [HOU:92] Firebrand Archer
+4 [KLD:109] Cathartic Reunion
+1 [BFZ:265b] Mountain
+2 [AER:84] Hungry Flames
+1 [BFZ:268b] Mountain
+3 [AKH:253] Mountain
+1 [BFZ:267b] Mountain
+SB: 2 [DOM:119] Fight with Fire
+SB: 2 [AKH:149] Sweltering Suns
+SB: 2 [HOU:86] Chandra's Defeat
+SB: 2 [AKH:135] Harsh Mentor
+SB: 2 [AKH:134] Glorybringer
+SB: 2 [RIX:111] Rekindling Phoenix
+SB: 3 [AKH:141] Magma Spray
+LAYOUT MAIN:(2,6)(CMC,true,60)|()([RIX:101],[RIX:101],[RIX:101],[RIX:101],[AKH:148],[AKH:148],[AKH:148],[AKH:148])([HOU:92],[HOU:92],[HOU:92],[HOU:92])([DOM:129],[DOM:129])([AKH:136],[AKH:136])()([BFZ:269b],[AKH:253],[AKH:253],[ZEN:242],[ZEN:243],[ZEN:242],[BFZ:267b],[UST:215],[AKH:253],[ZEN:244],[BFZ:268b],[UST:215],[BFZ:265b],[ZEN:243],[ZEN:243],[ZEN:245],[ZEN:242],[ZEN:245],[ZEN:242],[AKH:249],[AKH:249],[AKH:249])([AER:98],[AER:98],[AER:98],[AER:98])([HOU:83],[HOU:83],[HOU:83],[HOU:83],[KLD:109],[KLD:109],[KLD:109],[KLD:109],[XLN:149],[XLN:149],[XLN:149],[XLN:149])([AER:84],[AER:84])([KLD:110],[KLD:110])([DOM:132],[DOM:132])
+LAYOUT SIDEBOARD:(2,4)(CMC,false,50)|([HOU:86],[HOU:86])([AKH:135],[AKH:135])([AKH:149],[AKH:149])([AKH:134],[AKH:134])([AKH:141],[AKH:141],[AKH:141])([DOM:119],[DOM:119])([RIX:111],[RIX:111])()

@@ -1,0 +1,29 @@
+3 Benevolent Bodyguard
+4 Delver of Secrets
+4 Tireless Tribe
+4 Squadron Hawk
+1 Mulldrifter
+4 Brainstorm
+1 Dispel
+2 Gitaxian Probe
+3 Preordain
+3 Shadow Rift
+1 Apostle's Blessing
+4 Inside Out
+4 Journey to Nowhere
+2 Deep analysis
+1 Gush
+4 Evolving Wilds
+5 Island
+6 Plains
+4 Tranquil Cove
+
+Sideboard
+2 Dispel
+2 Hydroblast
+2 Sunlance
+1 Circle of Protection: Red
+2 Rest for the Weary
+2 Dust to Dust
+2 Prismatic Strands
+2 Stormbound Geist

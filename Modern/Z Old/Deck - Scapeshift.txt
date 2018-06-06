@@ -1,0 +1,40 @@
+1 Anger of the Gods
+1 Breeding Pool
+4 Bring to Light
+1 Cinder Glade
+2 Cryptic Command
+1 Dispel
+2 Farseek
+1 Flooded Grove
+2 Forest
+3 Island
+1 Izzet Charm
+3 Lightning Bolt
+4 Misty Rainforest
+1 Mountain
+1 Plains
+1 Prairie Stream
+4 Remand
+2 Repeal
+4 Sakura-Tribe Elder
+3 Scapeshift
+4 Search for Tomorrow
+2 Snapcaster Mage
+4 Steam Vents
+4 Stomping Ground
+2 Valakut, the Molten Pinnacle
+2 Worldly Counsel
+
+Sideboard
+1 Ancient Grudge
+1 Anger of the Gods
+1 Batterskull
+1 Creeping Corrosion
+1 Crumble to Dust
+2 Dispel
+1 Inferno Titan
+1 Krosan Grip
+1 Negate
+3 Obstinate Baloth
+1 Vendilion Clique
+1 Wurmcoil Engine

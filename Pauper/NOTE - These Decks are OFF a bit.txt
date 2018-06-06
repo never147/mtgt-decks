@@ -1,0 +1,17 @@
+Xmage isn't as perfect as MTGO, as far as determining which cards are legal for pauper, 
+which cards are technically legal as commons/uncommons, and in some cases, the cards aren't even available. 
+
+Keep that in mind, and justbe careful when importing netdeck Pauper decks.
+I've replaced many non-existant XMAGE Pauper cards with others just to get a full 75.
+
+Examples:
+Standard Bearer doesn't seem to exist.
+Oubliette isn't programmed either.
+Prismatic Strands is not present.
+Among those, plenty more white staple pauper cards.
+
+Some of the cards, like Rancor, Chainer's Edict, Pyroblast & Hydroblast
+have common and uncommon versions.
+
+Make sure you have the COMMON version if you're making decks yourself.
+Or, if you're importing netdecks, XMAGE doesn't always grab a COMMON version, so you need to make sure each individual card is in fact a common before trying to play in the queue with it.

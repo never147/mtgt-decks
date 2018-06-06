@@ -1,0 +1,23 @@
+NAME:GW Tokens
+9 [KLD:250] Plains
+1 [SOI:281] Westvale Abbey
+7 [KLD:264] Forest
+4 [OGW:138] Nissa, Voice of Zendikar
+4 [OGW:144] Sylvan Advocate
+4 [SOI:5] Archangel Avacyn
+4 [OGW:140] Oath of Nissa
+4 [EMN:40] Selfless Spirit
+4 [BFZ:50] Stasis Snare
+2 [SOI:12] Declaration in Stone
+1 [EMN:46] Thalia, Heretic Cathar
+4 [SOI:44] Thraben Inspector
+4 [BFZ:234] Canopy Vista
+4 [BFZ:29] Gideon, Ally of Zendikar
+4 [SOI:274] Fortified Village
+SB: 3 [KLD:14] Fragmentize
+SB: 2 [KLD:15] Fumigate
+SB: 4 [SOI:215] Lambholt Pacifist
+SB: 2 [EMN:13] Blessed Alliance
+SB: 4 [SOI:233] Tireless Tracker
+LAYOUT MAIN:(1,6)(CMC,false,74)|([BFZ:234],[BFZ:234],[BFZ:234],[BFZ:234],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[SOI:274],[SOI:274],[SOI:274],[SOI:274],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[SOI:281])([OGW:140],[OGW:140],[OGW:140],[OGW:140],[SOI:44],[SOI:44],[SOI:44],[SOI:44])([SOI:12],[SOI:12],[EMN:40],[EMN:40],[EMN:40],[EMN:40],[OGW:144],[OGW:144],[OGW:144],[OGW:144])([OGW:138],[OGW:138],[OGW:138],[OGW:138],[BFZ:50],[BFZ:50],[BFZ:50],[BFZ:50],[EMN:46])([BFZ:29],[BFZ:29],[BFZ:29],[BFZ:29])([SOI:5],[SOI:5],[SOI:5],[SOI:5])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:14],[KLD:14],[KLD:14])([EMN:13],[EMN:13],[SOI:215],[SOI:215],[SOI:215],[SOI:215])([SOI:233],[SOI:233],[SOI:233],[SOI:233])([KLD:15],[KLD:15])

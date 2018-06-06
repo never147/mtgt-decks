@@ -1,0 +1,27 @@
+4 [KLD:25] Refurbish
+9 [AKH:250] Plains
+4 [HOU:161] God-Pharaoh's Gift
+4 [XLN:48] Chart a Course
+4 [XLN:255] Glacial Fortress
+2 [HOU:180] Ipnu Rivulet
+2 [KLD:220] Key to the City
+4 [HOU:47] Strategic Planning
+1 [XLN:254] Field of Ruin
+2 [XLN:74] Search for Azcanta
+4 [KLD:4] Angel of Invention
+2 [AKH:27] Sacred Cat
+2 [KLD:9] Cataclysmic Gearhulk
+4 [RIX:2] Bishop of Binding
+4 [HOU:31] Champion of Wits
+3 [AKH:245] Irrigated Farmland
+5 [AKH:251] Island
+SB: 2 [XLN:34] Settle the Wreckage
+SB: 2 [AKH:8] Cast Out
+SB: 2 [AER:25] Thopter Arrest
+SB: 1 [RIX:22] Slaughter the Strong
+SB: 2 [RIX:44] Negate
+SB: 2 [HOU:49] Supreme Will
+SB: 2 [XLN:17] Ixalan's Binding
+SB: 2 [AKH:74] Vizier of Many Faces
+LAYOUT MAIN:(2,7)(CMC,true,60)|()([AKH:27],[AKH:27])()([HOU:31],[HOU:31],[HOU:31],[HOU:31])([RIX:2],[RIX:2],[RIX:2],[RIX:2])([KLD:4],[KLD:4],[KLD:4],[KLD:4],[KLD:9],[KLD:9])()([XLN:254],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[HOU:180],[HOU:180],[AKH:245],[AKH:245],[AKH:245],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250])()([XLN:48],[XLN:48],[XLN:48],[XLN:48],[KLD:220],[KLD:220],[HOU:47],[HOU:47],[HOU:47],[HOU:47],[XLN:74],[XLN:74])()([KLD:25],[KLD:25],[KLD:25],[KLD:25])()([HOU:161],[HOU:161],[HOU:161],[HOU:161])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([RIX:44],[RIX:44])([HOU:49],[HOU:49],[AER:25],[AER:25],[RIX:22])([AKH:74],[AKH:74],[AKH:8],[AKH:8],[XLN:17],[XLN:17],[XLN:34],[XLN:34])

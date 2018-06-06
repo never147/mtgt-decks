@@ -1,0 +1,73 @@
+https://deckbox.org/sets/1048947
+General sideboarding:
+Journey to Nowhere for extra removal against creatures you need to have off the battlefield. Bound in Silence for the matches were Pacifism is acceptable.
+
+Suture Priest is brought in against the bouncy-house and token swarm decks. Familiar, Delver, White Tokens, Midnight Presence.
+
+Kor Sanctifiers against decks with important Artifacts and Enchantments.
+
+Nightwing or Thermal Glider against Black or Red decks respectively.
+
+Prismatic Strands can be brought in against Red sweepers, Evincar's Justice, and aggro/combo like Eye Candy, Affinity, and Stompy.
+
+Zealot il-Vec against decks with lots of X/1's, e.g. Delver
+
+Relic of Progenitus against any deck abusing the graveyard. 
+
+Cards to look at removing are Icatian Javileneers when there are no targets. Aven Riftwatcher against longer grinding match ups. And Bound in Silence when they can deal with it easily.
+
+
+
+Affinity
+-4 Icatian Javelineer's, -1 Nightwind Glider, -1 Zealot il-Vec | +2 Kor Sanctifiers, +2 Prismatic Strands, +1 Bound in Silence, +1 Journey to Nowhere
+
+Burn
+-1 Nightwind Glider, -1 Zealot il-Vec, -2 Bound in Silence, -3 Journey to Nowhere | +3 Suture Priest, +1 Thermal Glider, +3 Prismatic Strands
+
+Counterburn
+-1 Nightwind Glider, -1 Zealot il-Vec | +2 Prismatic Strands
+
+Dark Delves
+-1 Zealot il-Vec | +1 Nightwind Glider
+
+Delver Fae
+-1 Nightwind Glider, -2 Veteran Armorer, -1 Lumithread Field, -2 Bound in Silence | +1 Kor Sanctifiers, +3 Suture Priest, +1 Zealot il-Vec, +1 Journey to Nowhere
+
+Eye Candy
+-1 Nightwind Glider, -1 Zealot il-Vec, -1 Cenn's Enlistment, -2 Veteran Armorer, -1 Bonesplitter | +1 Thermal Glider, +3 Prismatic Strands, +1 Bound in Silence, +1 Journey to Nowhere
+
+Familiar
+-2 Aven Riftwatcher, -1 Veteran Armorer, -1 Lumithread Field, -2 Bound in Silence | +3 Suture Priest, +1 Zealot il-Vec, +2 Relic of Progenitus
+
+Goblins
+-1 Nightwind Glider, -2 Bonesplitter, -2 Bound in Silence, -2 Veteran Armorer | +3 Suture Priest, +1 Thermal Glider, +2 Prismatic Strands, +1 Journey to Nowhere
+
+Hexchant
+-1 Nightwind Glider, -2 Veteran Armorer, -1 Lumithread Field, -2 Journey to Nowhere | +2 Kor Sanctifiers, +3 Prismatic Strands, +1 Bound in Silence
+
+Infect
+-2 Aven Riftwatcher, -2 Veteran Armorer, -1 Lumithread Field, -1 Nightwind Glider | +1 Zealot il-Vec, +3 Prismatic Strands, +1 Bound in Silence, +1 Journey to Nowhere
+
+Kuldotha Boros
+-1 Nightwind Glider, -2 Bound in Silence, -2 Aven Riftwatcher | +1 Kor Sanctifiers, +1 Thermal Glider, +3 Prismatic Strands
+
+MBC
+-2 Icatian Javelineer's, -2 Bound in Silence | +1 Nightwind Glider, +2 Kor Sanctifiers, +1 Journey to Nowhere
+
+MUC
+-1 Nightwind Glider, -2 Bound in Silence | +2 Kor Sanctifiers, +1 Journey to Nowhere
+
+RUG Tron
+-1 Aven Riftwatcher, -4 Icatian Javelineer's, -1 Nightwind Glider, -1 Zealot il-Vec | +1 Thermal Glider, +3 Prismatic Strands, +1 Bound in Silence, +1 Journey to Nowhere, +1 Kor Sanctifiers
+
+Stompy
+-1 Nightwind Glider, -2 Bonesplitter, -1 Veteran Armorer, -1 Lumithread Field | +3 Prismatic Strands, +1 Bound in Silence, +1 Journey to Nowhere
+
+Tokens
+-1 Nightwind Glider, -1 Cenn's Enlistment, -2 Bonesplitter, -2 Bound in Silence, -2 Journey to Nowhere | +3 Suture Priest, +1 Zealot il-Vec, +3 Prismatic Strands, +1 Kor Sanctifiers
+
+Teachings
+-1 Zealot il-Vec, -2 Bound in Silence, -3 Journey to Nowhere | +1 Nightwind Glider, +3 Prismatic Strands, +2 Relic of Progenitus
+
+White Warriors
+-1 Nightwind Glider | +1 Kor Sanctifiers

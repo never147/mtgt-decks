@@ -1,0 +1,30 @@
+NAME:UW Spirits
+7 [KLD:250] Plains
+2 [KLD:14] Fragmentize
+1 [SOI:281] Westvale Abbey
+1 [OGW:20] Immolating Glare
+7 [KLD:253] Island
+1 [KLD:49] Glimmer of Genius
+3 [SOI:5] Archangel Avacyn
+3 [EMN:71] Nebelgast Herald
+4 [SOI:81] Rattlechains
+4 [EMN:40] Selfless Spirit
+4 [BFZ:50] Stasis Snare
+4 [EMN:189] Spell Queller
+2 [BFZ:66] Spell Shrivel
+4 [EMN:69] Mausoleum Wanderer
+4 [BFZ:241] Prairie Stream
+2 [KLD:61] Revolutionary Rebuff
+4 [SOI:278] Port Town
+3 [BFZ:29] Gideon, Ally of Zendikar
+SB: 2 [KLD:5] Authority of the Consuls
+SB: 2 [KLD:14] Fragmentize
+SB: 1 [SOI:69] Jace, Unraveler of Secrets
+SB: 1 [OGW:20] Immolating Glare
+SB: 3 [EMN:13] Blessed Alliance
+SB: 1 [AER:31] Disallow
+SB: 2 [AER:142] Aethersphere Harvester
+SB: 1 [SOI:8] Bygone Bishop
+SB: 2 [AER:40] Negate
+LAYOUT MAIN:(1,6)(CMC,false,74)|([KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[SOI:278],[SOI:278],[SOI:278],[SOI:278],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241],[SOI:281])([KLD:14],[KLD:14],[EMN:69],[EMN:69],[EMN:69],[EMN:69])([OGW:20],[SOI:81],[SOI:81],[SOI:81],[SOI:81],[KLD:61],[KLD:61],[EMN:40],[EMN:40],[EMN:40],[EMN:40])([EMN:71],[EMN:71],[EMN:71],[EMN:189],[EMN:189],[EMN:189],[EMN:189],[BFZ:66],[BFZ:66],[BFZ:50],[BFZ:50],[BFZ:50],[BFZ:50])([BFZ:29],[BFZ:29],[BFZ:29],[KLD:49])([SOI:5],[SOI:5],[SOI:5])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:5],[KLD:5],[KLD:14],[KLD:14])([EMN:13],[EMN:13],[EMN:13],[OGW:20],[AER:40],[AER:40])([AER:142],[AER:142],[SOI:8],[AER:31])([SOI:69])

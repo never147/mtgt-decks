@@ -1,0 +1,36 @@
+2 Elspeth, Knight-Errant
+1 Dryad Arbor
+4 Wild Nacatl
+4 Noble Hierarch
+4 Tarmogoyf
+1 Qasali Pridemage
+1 Gaddock Teeg
+4 Knight of the Reliquary
+4 Green Sun's Zenith
+4 Lightning Bolt
+4 Path to Exile
+3 Lightning Helix
+3 Bant Charm
+2 Marsh Flats
+1 Scalding Tarn
+4 Misty Rainforest
+4 Arid Mesa
+1 Horizon Canopy
+1 Temple Garden
+1 Steam Vents
+1 Hallowed Fountain
+1 Sacred Foundry
+2 Stomping Ground
+1 Tectonic Edge
+1 Forest
+1 Plains
+
+Sideboard
+1 Tectonic Edge
+1 Qasali Pridemage
+2 Gideon Jura
+3 Aven Mindcensor
+3 Flashfreeze
+3 Unified Will
+1 Rule of Law
+1 Grim Lavamancer

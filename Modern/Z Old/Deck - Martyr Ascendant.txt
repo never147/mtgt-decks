@@ -1,0 +1,30 @@
+1 Cavern of Souls
+2 Emeria, the Sky Ruin
+4 Flagstones of Trokair
+4 Ghost Quarter
+4 Ghostly Prison
+1 Haven of the Spirit Dragon
+1 Kami of False Hope
+4 Martyr of Sands
+2 Mistveil Plains
+4 Path to Exile
+9 Plains
+3 Proclamation of Rebirth
+4 Ranger of Eos
+4 Serra Ascendant
+4 Squadron Hawk
+2 Sun Titan
+1 Tectonic Edge
+1 Terminus
+1 Weathered Wayfarer
+4 Wrath of God
+
+Sideboard
+1 Austere Command
+3 Celestial Purge
+1 Kami of False Hope
+4 Leyline of Sanctity
+2 Nevermore
+2 Stony Silence
+1 Terminus
+1 Ugin, the Spirit Dragon

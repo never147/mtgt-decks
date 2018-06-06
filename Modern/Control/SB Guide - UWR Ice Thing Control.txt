@@ -1,0 +1,55 @@
+
+Burn: Favorable
+Pre (60/40)
+Post (65/35)
+In this matchup, thing is always an 0/4 block and bolt target. If it dies like this, it did its job. Snapcaster is either an ambush viper, or an additional lightning helix. Usually, it's better used as an ambush viper. Play slowly and minimize the damage you take from their lands and creatures. If both of you are in top-deck mode and you have 7+ life, you've won. Understand that they have atarka's command, and take precautions to not get blown out of your helix lifegain. If you resolve two helix's that successfully gain life, you've probably won, and flipping thing is almost always a win.
+In: 3 Leyline of Sanctity, 1 Spellskite, 2 Dispel
+Out: 2 Cryptic Command, 1 Keranos, 2 Remand, 1 Desolate Lighthouse.
+Postboard you keep the exact same strategy, and lower your curve Immensely. Leyline of Sanctity is really for the BGx/Grixis decks that run lots of hand disruption, but they're much better than anything you're taking out here. Your opponent will have likely sided in Rest in Peace, and if you believe this is the case, get all the value out of your graveyard whenever you can. They also side in Skull Crack, so you you need to continue playing around atarka's command. Spell Snares should be exclusively saved for Eidolon or atarka's command, as they usually result in more damage then anything like boros charm. Don't counter their rest in peace. Not worth it.
+Infect: Bye
+Pre-board (75-25)
+Post board (75-25)
+No, Seriously. It's a bye. You have so many ways of killing their infect creatures it's not fair. Snapcasters, again, are ambush vipers. Things stay in your hand unless they don't have a creature on the board on the turn you plan on playing it. Their most explosive hands are foiled by path, and their slower hands are foiled by your swell of single target removal. Keep Spell-Snare for their Spellskites, as those are the only way you end up losing this. Be patient and enjoy your bye.
+In: 2 Wear/Tear, 2 Dispel, 1 Spellskite
+Out: 1 Keranos, 2 Cryptic Command, 1 Lighthouse 1 Clique
+Yup, still bye. The Wear/Tears are for Skite, Inkmoth, and Wild Defiance. They are less explosive post board because they side out some of their Become Immenses. Be patient and enjoy the ride.
+
+Affinity: Favorable
+Pre: (55/45)
+Post: (75/25)
+My friend is a very good affinity player, so he is an invaluable asset to this test. You play your thing T3 against this deck, and if it resolves and you don't die for playing it it will take the game. Your bolts are extremely economical and can keep them from pushing through lethal. The only thing you really care about is ravager because it lets the affinity player dodge around the bolts. If they resolve an early ravager, you waste a lot of tempo and resources to keep it contained. Any ravagers that are later than t2 aren't a threat, because when you flip the thing, it returns all creatures. This interacts very favorably with their manlands. 60% of my losses to this deck were the inability to flip the thing because of a poor keep/mulligans, and the inability to deal with a 4/4 Inkmoth. Otherwise, burn a path through their primary threats and you're golden.
+Board:
+In: Fracturing Gust, 3 Stony Silence, 2 Wear/Tear
+Out: Keranos, Spellskite, 2 C-Mand, 1 Lighthouse, 1 Serum Visions
+Postboard you have one of the most brutal anti-affinity decks. You side out everything that can't interact with an early affinity threat, and side in everything that can. You reduce your curve with this board, so you can sustain the land loss. The only 4+ spell you have in the deck post-board might as well be a auto-win if it resolves. I have never lost if it resolved.
+
+Tron: Moderately Unfavorable
+Pre: (30/70)
+Post: (55/45)
+The key to pre-board is speed. T2 thing, and aggressively remand anything non-egg they play. If you have mana up, you bolt. Don't be afraid to cast your snapcasters without a spell to flashback to have a clock. Tron ALWAYS has the lategame, even if you think you can win with the keranos in your hand, it's not safe from a wurmcoil. A wining board is one with a flipped thing and a cryptic in hand to bounce a tron land. A losing hand is assembled tron when they are not within bolt-snap-bolt range.
+In: Stony Silence 3, Crumple to Dust 2
+Out: 2 Spell Snare, 1 Electrolyze, 2 Serum Visions
+Post-board, The combination of Stony Silence and Crumple to Dust tell you exactly what you have to do. Lock them down for a few turns and whack them with everything you've got. Stony Silence requires protection if they have a green source, as they usually side in 3-4 Nature's Claim. Your biggest threat is O-Stone throwing you off your tempo. If you can keep their O-stone from activating and cripple their tron search, you will be successful. This is still pretty hard, so I would definitely call this matchup unfavorable in the end. You can, however, godhand them with bolts, things, and Cliques.
+Burn: Favorable
+Pre (60/40)
+Post (65/35)
+In this matchup, thing is always an 0/4 block and bolt target. If it dies like this, it did its job. Snapcaster is either an ambush viper, or an additional lightning helix. Usually, it's better used as an ambush viper. Play slowly and minimize the damage you take from their lands and creatures. If both of you are in top-deck mode and you have 7+ life, you've won. Understand that they have atarka's command, and take precautions to not get blown out of your helix lifegain. If you resolve two helix's that successfully gain life, you've probably won, and flipping thing is almost always a win.
+In: 3 Leyline of Sanctity, 1 Spellskite, 2 Dispel
+Out: 2 Cryptic Command, 1 Keranos, 2 Remand, 1 Desolate Lighthouse.
+Postboard you keep the exact same strategy, and lower your curve Immensely. Leyline of Sanctity is really for the BGx/Grixis decks that run lots of hand disruption, but they're much better than anything you're taking out here. Your opponent will have likely sided in Rest in Peace, and if you believe this is the case, get all the value out of your graveyard whenever you can. They also side in Skull Crack, so you you need to continue playing around atarka's command. Spell Snares should be exclusively saved for Eidolon or atarka's command, as they usually result in more damage then anything like boros charm. Don't counter their rest in peace. Not worth it.
+
+Infect: Bye
+Pre-board (75-25)
+Post board (75-25)
+No, Seriously. It's a bye. You have so many ways of killing their infect creatures it's not fair. Snapcasters, again, are ambush vipers. Things stay in your hand unless they don't have a creature on the board on the turn you plan on playing it. Their most explosive hands are foiled by path, and their slower hands are foiled by your swell of single target removal. Keep Spell-Snare for their Spellskites, as those are the only way you end up losing this. Be patient and enjoy your bye.
+In: 2 Wear/Tear, 2 Dispel, 1 Spellskite
+Out: 1 Keranos, 2 Cryptic Command, 1 Lighthouse 1 Clique
+Yup, still bye. The Wear/Tears are for Skite, Inkmoth, and Wild Defiance. They are less explosive post board because they side out some of their Become Immenses. Be patient and enjoy the ride.
+
+Melira Company (No Angel): Favorable
+Preboard(65/35):
+Post([60-45],[40-55])
+Preboard you have lots of ways to interrupt their combo, and flipping the thing is your usual wincon. If you concentrate your bolts on the 2cmc enablers, you will have the greatest chance for success, and you can hit the hardcast ones with snare, hit the resolved ones with bolt, Liliana can not revive them, and co/co can be countered. If they assemble the combo, remember you can bolt or flip thing in response to the persist and/or bolster triggers.
+In: Dispel 2
+Out: 1 Keranos, 1 Spellskite
+Postboard entirely depends on what they chose as their fun-ofs. Fiend Hunters are annoying as hell when they reset your thing, and they usually have enough spellskites to protect their combo, but not enough to require the use of Wear/Tear. Your biggest enemy is abrupt decay, as it can completely jumble any combat math you had done. Always leave co/co counter mana up, as you have no way to win through infinite life.

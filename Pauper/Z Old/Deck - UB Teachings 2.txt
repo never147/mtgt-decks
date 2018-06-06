@@ -1,0 +1,57 @@
+1 Capsize
+
+3 Chainer's Edict
+
+4 Counterspell
+
+1 Crypt Incursion
+
+3 Diabolic Edict
+
+4 Dimir Aqueduct
+
+1 Disfigure
+
+4 Dismal Backwater
+
+1 Doom Blade
+
+1 Echoing Decay
+
+2 Evincar's Justice
+
+2 Evolving Wilds
+
+2 Exclude
+
+2 Gurmag Angler
+
+7 Island
+
+4 Mystical Teachings
+
+2 Pristine Talisman
+
+2 Radiant Fountain
+
+3 Remove Soul
+
+4 Sea Gate Oracle
+
+3 Swamp
+
+4 Think Twice
+
+
+
+
+Sideboard
+2 Curse of the Bloody Tome
+3 Dispel
+2 Steel Sabotage
+1 Echoing Decay
+1 Echoing Truth
+1 Negate
+2 Stormbound Geist
+1 Wail of the Nim
+2 Evincar's Justice

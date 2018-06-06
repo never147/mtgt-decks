@@ -1,0 +1,33 @@
+4 Arid Mesa
+2 Cascade Bluffs
+4 Celestial Colonnade
+2 Cryptic Command
+3 Electrolyze
+2 Flooded Strand
+1 Hallowed Fountain
+2 Island
+2 Kiki-Jiki, Mirror Breaker
+4 Lightning Bolt
+2 Lightning Helix
+3 Mana Leak
+1 Mountain
+4 Path to Exile
+1 Plains
+4 Restoration Angel
+1 Sacred Foundry
+4 Scalding Tarn
+4 Snapcaster Mage
+2 Spell Snare
+3 Steam Vents
+1 Vendilion Clique
+4 Wall of Omens
+
+Sideboard
+2 Crumble to Dust
+1 Izzet Staticaster
+2 Keranos, God of Storms
+3 Leyline of Sanctity
+1 Shadow of Doubt
+3 Stony Silence
+2 Supreme Verdict
+1 Wear // Tear

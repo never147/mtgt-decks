@@ -1,0 +1,27 @@
+4 Aether Vial
+4 Caves of Koilos
+3 Eldrazi Displacer
+4 Eldrazi Temple
+4 Flickerwisp
+4 Ghost Quarter
+4 Leonin Arbiter
+4 Path to Exile
+4 Plains
+1 Reality Smasher
+3 Shambling Vent
+3 Swamp
+4 Thalia, Guardian of Thraben
+4 Thought-Knot Seer
+2 Thoughtseize
+4 Tidehollow Sculler
+4 Wasteland Strangler
+
+Sideboard
+1 Eidolon of Rhetoric
+1 Ethersworn Canonist
+3 Inquisition of Kozilek
+2 Kor Firewalker
+2 Reality Smasher
+2 Rest in Peace
+2 Stony Silence
+2 Sunlance

@@ -1,0 +1,41 @@
+1 Anafenza, Kin-Tree Spirit
+1 Archangel of Thune
+4 Birds of Paradise
+4 Chord of Calling
+4 Collected Company
+1 Eternal Witness
+4 Fiend Hunter
+2 Forest
+2 Gavony Township
+1 Godless Shrine
+4 Kitchen Finks
+1 Melira, Sylvok Outcast
+1 Murderous Redcap
+3 Noble Hierarch
+2 Overgrown Tomb
+1 Plains
+1 Qasali Pridemage
+3 Razorverge Thicket
+1 Reveillark
+1 Scavenging Ooze
+1 Spike Feeder
+1 Swamp
+2 Temple Garden
+1 Tidehollow Sculler
+4 Verdant Catacombs
+1 Viscera Seer
+2 Voice of Resurgence
+2 Wall of Roots
+4 Windswept Heath
+
+Sideboard
+2 Blood Baron of Vizkopa
+1 Ethersworn Canonist
+2 Intrepid Hero
+2 Kataki, War's Wage
+1 Linvala, Keeper of Silence
+1 Orzhov Pontiff
+1 Path to Exile
+2 Shriekmaw
+1 Spellskite
+2 Stony Silence

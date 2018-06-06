@@ -1,0 +1,67 @@
+http://magicgatheringstrat.com/2014/07/exhume-and-crush-a-primer/
+
+Pauper Gauntlet Season 3 entry.
+
+Original deck by David Shaffer. Read his deck tech for in-depth info.
+
+Changes: I tried a lot of changes, none of them proved to be clear improvements. As discussed with Dan, we are trying Devastators for the sake of trampling. They look better on the late game while the Crushers are better Exhume targets early.
++2 Eldrazi Devastator
+-2 Ulamog's Crusher
+
+Sideboard plan
+
+Delver
+-4 Exhume, -1 Devastator, -1 Nihil Spellbomb, -1 Probe: + 2 Dispel, +2 Piracy Charm, +1 Wail of Nim, +2 Doomblade
+
+Affinity
+-2 Agony Warp, -1 Nihil Spellbomb, -2 Serrated Arrows, -1 Prohibit: +2 Doomblade +3 Hydroblast +1 Crusher
+
+U/R Control
+Sideboard: -1 Nihil Spellbomb, -2 Innocent Blood, -2 Island, -1 Dimir Aquaduct, -1 Prohibit: +3 Hydroblast, +1 Crusher, +2 Dispel, +1 Probe
+
+
+Tron
+Sideboard: -2 Agony Warp, -2 Prohibit, -2 Serrated Arrows: +2 Doomblade, +2 Hydroblast, +1 Probe, +1 Crusher
+
+
+MonoB
+Sideboard: -1 Doomblade, -1 Devastator, -2 Prohibit: +1 Probe, +1 Walker of the Grove, +2 Evincars Justice
+
+
+MonoU Control
+Sideboard: -1 Nihil Spellbomb, -1 Island, -1 Dimir Aqueduct, -2 Prohibit: +2 Doomblade, +1 Probe, +2 Dispel
+
+
+Burn
+Sideboard: -2 Serrated Arrows, -1 Tragic Slip, -1 Nihil Spellbomb, -1 Doomblade, -2 Innocent Blood: +2 Dispel, +1 Probe, +1 Crusher, +3 Hydroblast
+
+
+Stompy
+Sideboard: -1 Exhume, -1 Nihil Spellbomb, -1 Probe, -1 Crusher: +2 Evincars Justice, +2 Doomblade
+
+
+Hexproof Auras
+Sideboard: -2 Serrated Arrows, -1 Nihil Spellbomb, -2 Agony Warp: +1 Ulamogs Crusher, +2 Evincars Justice, +1 Wail of Nim
+
+
+Familiars
+Sideboard: -2 Innocent Blood, -2 Diabolic Edict, -1 Compulsive Research: +2 Doomblade, +2 Piracy Charm, +1 Probe, +1 Ulamogs Crusher.
+
+
+The previous matchups are described in David's article.
+
+Boros Kitty(u/b)
+-1 Exhume -1 Probe -1 Nihil Spellbomb -1 Serrated Arrows -1 Devastator +2 Duress +3 Hydroblast
+
+
+Elves
+-1 Exhume -2 Probe -1 Nihil Spellbomb +2 Evinccar's Justice +2 Doom Blade
+
+
+Teachings/Other heavy control decks
++2 Duress +1 Probe
+-2 Agony Warp -1 Serrated Arrows
+
+Delver/Angler
++2 Duress +1 Probe +1 Walker of the Grove
+-1 Doom Blade -2 Serrated Arrows -1 Agony Warp

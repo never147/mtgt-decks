@@ -1,0 +1,31 @@
+2 [HOU:171] Desert of the Glorified
+4 [XLN:102] Dire Fleet Hoarder
+2 [AER:57] Fatal Push
+2 [RIX:77] Mastermind's Acquisition
+4 [AKH:87] Doomed Dissenter
+1 [XLN:254] Field of Ruin
+2 [XLN:90] Arguel's Blood Fast
+2 [XLN:93] Bloodcrazed Paladin
+3 [HOU:60] Bontu's Last Reckoning
+2 [HOU:179] Ifnir Deadlands
+4 [AKH:225] Bontu's Monument
+4 [RIX:70] Dusk Legion Zealot
+4 [RIX:81] Pitiless Plunderer
+17 [AKH:252] Swamp
+4 [RIX:80] Oathsworn Vampire
+4 [AER:74] Yahenni, Undying Partisan
+SB: 1 [HOU:182] Scavenger Grounds
+SB: 2 [XLN:105] Duress
+SB: 1 [XLN:119] Ruthless Knave
+SB: 2 [XLN:129] Vraska's Contempt
+SB: 2 [AER:57] Fatal Push
+SB: 1 [KLD:88] Lost Legacy
+SB: 1 [AKH:82] Bontu the Glorified
+SB: 2 [HOU:60] Bontu's Last Reckoning
+SB: 2 [KLD:84] Gonti, Lord of Luxury
+SB: 2 [AER:142] Aethersphere Harvester
+SB: 2 [AER:61] Gifted Aetherborn
+SB: 2 [KLD:90] Marionette Master
+SB: 2 [KLD:80] Essence Extraction
+LAYOUT MAIN:(2,5)(CMC,true,60)|()()([XLN:93],[XLN:93],[XLN:102],[XLN:102],[XLN:102],[XLN:102],[AKH:87],[AKH:87],[AKH:87],[AKH:87],[RIX:70],[RIX:70],[RIX:70],[RIX:70],[RIX:80],[RIX:80],[RIX:80],[RIX:80])([AER:74],[AER:74],[AER:74],[AER:74])([RIX:81],[RIX:81],[RIX:81],[RIX:81])([HOU:171],[HOU:171],[XLN:254],[HOU:179],[HOU:179],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252])([AER:57],[AER:57])([XLN:90],[XLN:90])([HOU:60],[HOU:60],[AKH:225],[AKH:225],[AKH:225],[AKH:225])([RIX:77],[RIX:77])
+LAYOUT SIDEBOARD:(3,5)(CMC,false,50)|([HOU:182])([XLN:105],[XLN:105],[AER:57])([AER:142],[AER:142],[KLD:88],[KLD:80],[KLD:80])([XLN:129],[XLN:129],[KLD:84],[KLD:84])([KLD:90],[KLD:90])([AKH:82],[XLN:119],[AER:61],[AER:61])([HOU:60])()()()()([AER:57])()()()

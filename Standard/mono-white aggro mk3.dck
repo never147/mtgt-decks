@@ -1,0 +1,31 @@
+1 [HOU:182] Scavenger Grounds
+4 [KLD:13] Fairgrounds Warden
+3 [AKH:250] Plains
+4 [HOU:183] Shefet Dunes
+2 [XLN:38] Slash of Talons
+4 [HOU:2] Adorned Pouncer
+2 [XLN:35] Sheltering Light
+2 [HOU:26] Sunscourge Champion
+2 [HOU:8] Desert's Hold
+3 [BFZ:251b] Plains
+2 [KLD:4] Angel of Invention
+5 [BFZ:253b] Plains
+2 [BFZ:252b] Plains
+4 [AKH:16] Glory-Bound Initiate
+4 [AKH:27] Sacred Cat
+2 [AKH:14] Gideon of the Trials
+2 [HOU:21] Saving Grace
+4 [XLN:19] Kinjalli's Sunwing
+3 [AKH:233] Oketra's Monument
+3 [BFZ:254b] Plains
+2 [HOU:176] Endless Sands
+SB: 2 [XLN:34] Settle the Wreckage
+SB: 2 [KLD:5] Authority of the Consuls
+SB: 2 [AKH:8] Cast Out
+SB: 2 [AER:25] Thopter Arrest
+SB: 1 [HOU:22] Solemnity
+SB: 2 [AKH:13] Forsake the Worldly
+SB: 2 [HOU:159] Crook of Condemnation
+SB: 2 [XLN:17] Ixalan's Binding
+LAYOUT MAIN:(2,5)(CMC,true,71)|()([AKH:27],[AKH:27],[AKH:27],[AKH:27])([HOU:2],[HOU:2],[HOU:2],[HOU:2],[AKH:16],[AKH:16],[AKH:16],[AKH:16])([KLD:13],[KLD:13],[KLD:13],[KLD:13],[XLN:19],[XLN:19],[XLN:19],[XLN:19],[HOU:26],[HOU:26])([KLD:4],[KLD:4])([HOU:176],[HOU:176],[AKH:250],[AKH:250],[AKH:250],[BFZ:251b],[BFZ:251b],[BFZ:251b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:252b],[BFZ:252b],[BFZ:254b],[BFZ:254b],[BFZ:254b],[HOU:182],[HOU:183],[HOU:183],[HOU:183],[HOU:183])([XLN:38],[XLN:38],[XLN:35],[XLN:35])([HOU:21],[HOU:21])([HOU:8],[HOU:8],[AKH:14],[AKH:14],[AKH:233],[AKH:233],[AKH:233])()
+LAYOUT SIDEBOARD:(2,4)(CMC,false,77)|([AKH:8],[AKH:8])([HOU:159],[HOU:159])([AKH:13],[AKH:13],[AER:25],[AER:25],[HOU:22])([XLN:34],[XLN:34],[XLN:17],[XLN:17])([KLD:5],[KLD:5])()()()

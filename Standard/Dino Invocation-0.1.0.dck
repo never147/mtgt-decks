@@ -1,0 +1,36 @@
+1 [HOU:170] Desert of the Fervent
+1 [HOU:173] Desert of the Mindful
+2 [AKH:250] Plains
+1 [HOU:172] Desert of the Indomitable
+4 [XLN:256] Rootbound Crag
+4 [KLD:244] Botanical Sanctum
+1 [XLN:254] Field of Ruin
+4 [RIX:149] Thunderherd Migration
+2 [AKH:219] Spring // Mind
+2 [AER:123] Rishkar's Expertise
+4 [HOU:120] Hour of Promise
+1 [AKH:251] Island
+4 [KLD:249] Spirebluff Canal
+1 [AKH:254] Forest
+1 [AKH:253] Mountain
+1 [HOU:182] Scavenger Grounds
+2 [RIX:45] Nezahal, Primal Tide
+3 [XLN:201] Ranging Raptors
+2 [RIX:46] Release to the Wind
+1 [HOU:180] Ipnu Rivulet
+2 [XLN:165] Sunbird's Invocation
+4 [XLN:187] Drover of the Mighty
+3 [RIX:150] Wayward Swordtooth
+2 [AKH:248] Sheltered Thicket
+1 [RIX:174] Zacama, Primal Calamity
+1 [RIX:130] Ghalta, Primal Hunger
+4 [AKH:167] Gift of Paradise
+1 [HOU:177] Hashep Oasis
+SB: 1 [AKH:250] Plains
+SB: 2 [AKH:8] Cast Out
+SB: 2 [XLN:254] Field of Ruin
+SB: 2 [XLN:17] Ixalan's Binding
+SB: 2 [RIX:148] Thrashing Brontodon
+SB: 1 [HOU:176] Endless Sands
+LAYOUT MAIN:(2,8)(CMC,true,60)|()([XLN:187],[XLN:187],[XLN:187],[XLN:187])([XLN:201],[XLN:201],[XLN:201],[RIX:150],[RIX:150],[RIX:150])()()([RIX:45],[RIX:45])([RIX:174])([RIX:130])([KLD:244],[KLD:244],[KLD:244],[KLD:244],[HOU:170],[HOU:172],[HOU:173],[XLN:254],[AKH:254],[HOU:177],[HOU:180],[AKH:251],[AKH:253],[XLN:256],[XLN:256],[XLN:256],[XLN:256],[HOU:182],[AKH:248],[AKH:248],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[AKH:250],[AKH:250])([RIX:149],[RIX:149],[RIX:149],[RIX:149])([AKH:167],[AKH:167],[AKH:167],[AKH:167],[RIX:46],[RIX:46])([HOU:120],[HOU:120],[HOU:120],[HOU:120])([AER:123],[AER:123],[XLN:165],[XLN:165])()([AKH:219],[AKH:219])()
+LAYOUT SIDEBOARD:(2,3)(CMC,false,50)|([HOU:176],[XLN:254],[AKH:250])([RIX:148],[RIX:148])([AKH:8],[AKH:8],[XLN:17],[XLN:17])([XLN:254])()()

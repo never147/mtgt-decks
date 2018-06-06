@@ -1,0 +1,33 @@
+4 [THS:13] Favored Hoplite
+4 [THS:39] Aqueous Form
+4 [JOU:14] Lagonna-Band Trailblazer
+2 [ZEN:230] Plains
+1 [EXP:10] Temple Garden
+1 [ZEN:231] Plains
+2 [EXP:20] Windswept Heath
+4 [KTK:233] Flooded Strand
+4 [KTK:133] Hardened Scales
+4 [MPRP:13] Giant Growth
+1 [DIS:174] Hallowed Fountain
+1 [ZEN:246] Forest
+2 [ZEN:247] Forest
+1 [ZEN:237] Island
+4 [JOU:141] Solidarity of Heroes
+2 [KLD:146] Blossoming Defense
+4 [ULG:110] Rancor
+4 [SOI:278] Port Town
+2 [BNG:123] Hero of Leina Tower
+2 [JOU:50] Sage of Hours
+4 [MM2:149] Mutagenic Growth
+2 [SOI:274] Fortified Village
+1 [GTC:240] Breeding Pool
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 1 [MMA:25] Path to Exile
+SB: 2 [MM3:25] Stony Silence
+SB: 2 [ISD:240] Ghost Quarter
+SB: 2 [MM2:168] Vines of Vastwood
+SB: 2 [DTK:221] Dromoka's Command
+SB: 2 [HOP:4] Oblivion Ring
+SB: 2 [ROE:20] Emerge Unscathed
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,74)|([THS:13],[THS:13],[THS:13],[THS:13],[BNG:123],[BNG:123],[JOU:14],[JOU:14],[JOU:14],[JOU:14],[JOU:50],[JOU:50])([THS:39],[THS:39],[THS:39],[THS:39],[KTK:133],[KTK:133],[KTK:133],[KTK:133],[ULG:110],[ULG:110],[ULG:110],[ULG:110])([KLD:146],[KLD:146],[MPRP:13],[MPRP:13],[MPRP:13],[MPRP:13],[MM2:149],[MM2:149],[MM2:149],[MM2:149],[JOU:141],[JOU:141],[JOU:141],[JOU:141])([GTC:240],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZEN:246],[ZEN:247],[ZEN:247],[SOI:274],[SOI:274],[DIS:174],[ZEN:237],[ZEN:230],[ZEN:231],[ZEN:230],[SOI:278],[SOI:278],[SOI:278],[SOI:278],[EXP:10],[EXP:20],[EXP:20])
+LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([DKA:149],[DKA:149])([HOP:4],[HOP:4],[MM3:25],[MM3:25])([DTK:221],[DTK:221],[ROE:20],[ROE:20],[MMA:25],[MM2:168],[MM2:168])([ISD:240],[ISD:240])

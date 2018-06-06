@@ -1,0 +1,29 @@
+4 Arbor Elf
+1 Emrakul, the Aeons Torn
+3 Eternal Witness
+11 Forest
+3 Garruk Wildspeaker
+2 Harmonize
+1 Kessig Wolf Run
+1 Nissa, Worldwaker
+1 Nykthos, Shrine to Nyx
+3 Oath of Nissa
+4 Overgrowth
+3 Primal Command
+1 Primeval Titan
+4 Stomping Ground
+4 Tooth and Nail
+4 Utopia Sprawl
+4 Voyaging Satyr
+1 Windswept Heath
+4 Wooded Foothills
+1 Xenagos, God of Revels
+
+Sideboard
+2 Blood Moon
+1 Crumble to Dust
+3 Lightning Bolt
+3 Nature's Claim
+2 Relic of Progenitus
+2 Spellskite
+2 Thragtusk

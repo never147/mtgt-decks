@@ -1,0 +1,31 @@
+1 Dryad Arbor
+1 Terastodon
+4 Emrakul, the Aeons Torn
+1 Ulamog, the Infinite Gyre
+1 Oracle of Mul Daya
+1 Sakura-Tribe Elder
+4 Primeval Titan
+4 Overgrown Battlement
+4 Wall of Roots
+4 Green Sun's Zenith
+3 Beast Within
+4 Through the Breach
+4 Gruul Signet
+1 Mountain
+4 Vesuva
+4 Glimmerpost
+4 Cloudpost
+4 Grove of the Burnwillows
+3 Forest
+1 Stomping Ground
+1 Eye of Ugin
+2 Misty Rainforest
+
+Sideboard
+2 Seal of Primordium
+1 Qasali Pridemage
+3 Chalice of the Void
+3 Firespout
+3 Punishing Fire
+2 Dismember
+1 Brooding Saurian

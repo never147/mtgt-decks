@@ -1,0 +1,30 @@
+4 Bloodstained Mire
+1 Forest
+2 Marsh Flats
+2 Overgrown Tomb
+2 Polluted Delta
+3 Swamp
+1 Twilight Mire
+1 Urborg, Tomb of Yawgmoth
+4 Verdant Catacombs
+4 Bloodghast
+2 Bloodsoaked Champion
+4 Gravecrawler
+3 Gurmag Angler
+4 Heir of Falkenrath
+4 Lotleth Troll
+2 Satyr Wayfinder
+4 Vengevine
+3 Inquisition of Kozilek
+4 Abrupt Decay
+2 Dismember
+4 Grisly Salvage
+
+Sideboard
+2 Darkblast
+3 Deathmark
+2 Deglamer
+2 Ghost Quarter
+1 Golgari Charm
+2 Maelstrom Pulse
+3 Thoughtseize

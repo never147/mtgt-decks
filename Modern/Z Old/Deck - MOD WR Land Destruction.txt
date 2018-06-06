@@ -1,0 +1,37 @@
+2 Ajani Vengeant
+4 Arid Mesa
+1 Aven Mindcensor
+4 Boom // Bust
+1 Boseiju, Who Shelters All
+1 Bottled Cloister
+1 Chandra, Pyromaster
+1 Crucible of Worlds
+3 Ensnaring Bridge
+4 Flagstones of Trokair
+2 Ghost Quarter
+2 Ghostly Prison
+1 Horizon Canopy
+1 Keldon Megaliths
+2 Leyline of Sanctity
+2 Lightning Helix
+4 Magus of the Tabernacle
+4 Molten Rain
+1 Mountain
+2 Plains
+4 Sacred Foundry
+4 Simian Spirit Guide
+4 Stone Rain
+4 Temple of Triumph
+1 Wildfire
+
+Sideboard
+1 Anger of the Gods
+1 Boil
+1 Grafdigger's Cage
+1 Nevermore
+2 Pithing Needle
+1 Pyroclasm
+2 Rest in Peace
+3 Stony Silence
+2 Torpor Orb
+1 Wear // Tear

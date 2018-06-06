@@ -1,0 +1,29 @@
+4 Ancient Stirrings
+2 Dismember
+4 Eldrazi Temple
+4 Endless One
+4 Eye of Ugin
+3 Forest
+1 Gemstone Caverns
+4 Grove of the Burnwillows
+4 Karplusan Forest
+4 Kozilek's Return
+4 Matter Reshaper
+2 Mind Stone
+1 Mountain
+2 Oblivion Sower
+4 Reality Smasher
+2 Talisman of Impulse
+1 Tendo Ice Bridge
+4 Thought-Knot Seer
+2 Urborg, Tomb of Yawgmoth
+4 World Breaker
+
+Sideboard
+3 Ancient Grudge
+1 Crumble to Dust
+4 Lightning Bolt
+2 Oblivion Sower
+2 Relic of Progenitus
+2 Seal of Primordium
+1 Ulamog, the Ceaseless Hunger

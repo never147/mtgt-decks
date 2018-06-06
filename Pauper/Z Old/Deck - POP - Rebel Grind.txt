@@ -1,0 +1,29 @@
+4 Amrou Scout
+2 Aven Riftwatcher
+2 Defiant Falcon
+4 Icatian Javelineers
+3 Kor Skyfisher
+1 Nightwind Glider
+4 Ramosian Lieutenant
+4 Ramosian Sergeant
+2 Veteran Armorer
+1 Zealot il-Vec
+1 Cenn's Enlistment
+2 Bonesplitter
+2 Bound in Silence
+3 Journey to Nowhere
+1 Lumithread Field
+16 Plains
+4 Quicksand
+4 Secluded Steppe
+
+Sideboard
+2 Kor Sanctifiers
+1 Nightwind Glider
+3 Suture Priest
+1 Thermal Glider
+1 Zealot il-Vec
+3 Prismatic Strands
+2 Relic of Progenitus
+1 Bound in Silence
+1 Journey to Nowhere

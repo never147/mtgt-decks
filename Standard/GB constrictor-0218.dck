@@ -1,0 +1,29 @@
+4 [AER:181] Walking Ballista
+4 [AER:140] Winding Constrictor
+3 [KLD:172] Verdurous Gearhulk
+4 [XLN:129] Vraska's Contempt
+4 [KLD:243] Blooming Marsh
+4 [AER:57] Fatal Push
+4 [KLD:242] Aether Hub
+3 [XLN:197] Merfolk Branchwalker
+4 [RIX:136] Jadelight Ranger
+3 [RIX:188] Foul Orchard
+5 [RIX:194] Swamp
+4 [RIX:196] Forest
+2 [HOU:179] Ifnir Deadlands
+2 [KLD:146] Blossoming Defense
+2 [RIX:82] Ravenous Chupacabra
+4 [AER:62] Glint-Sleeve Siphoner
+2 [AER:122] Rishkar, Peema Renegade
+2 [HOU:177] Hashep Oasis
+SB: 2 [XLN:99] Deadeye Tracker
+SB: 4 [XLN:105] Duress
+SB: 1 [AER:162] Lifecrafter's Bestiary
+SB: 1 [RIX:86] Tetzimoc, Primal Death
+SB: 2 [XLN:232] Vraska, Relic Seeker
+SB: 2 [KLD:84] Gonti, Lord of Luxury
+SB: 1 [AER:142] Aethersphere Harvester
+SB: 1 [RIX:139] Naturalize
+SB: 1 [RIX:148] Thrashing Brontodon
+LAYOUT MAIN:(2,6)(CMC,true,60)|([AER:181],[AER:181],[AER:181],[AER:181])()([AER:62],[AER:62],[AER:62],[AER:62],[XLN:197],[XLN:197],[XLN:197],[AER:140],[AER:140],[AER:140],[AER:140])([RIX:136],[RIX:136],[RIX:136],[RIX:136],[AER:122],[AER:122])([RIX:82],[RIX:82])([KLD:172],[KLD:172],[KLD:172])([RIX:196],[RIX:196],[RIX:196],[RIX:196],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[RIX:188],[RIX:188],[RIX:188],[HOU:177],[HOU:177],[HOU:179],[HOU:179])([KLD:146],[KLD:146],[AER:57],[AER:57],[AER:57],[AER:57])()()([XLN:129],[XLN:129],[XLN:129],[XLN:129])()
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([XLN:99],[XLN:99],[XLN:105],[XLN:105],[XLN:105],[XLN:105])([RIX:139])([AER:142],[AER:162],[RIX:148])([KLD:84],[KLD:84])([RIX:86],[XLN:232],[XLN:232])

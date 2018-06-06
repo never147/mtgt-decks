@@ -1,0 +1,35 @@
+2 Arid Mesa
+2 Blackcleave Cliffs
+2 Blood Crypt
+3 Bloodstained Mire
+4 Dark Confidant
+1 Godless Shrine
+4 Inquisition of Kozilek
+3 Kolaghan's Command
+4 Lightning Bolt
+2 Lightning Helix
+3 Lingering Souls
+3 Marsh Flats
+3 Monastery Mentor
+1 Mountain
+2 Needle Spires
+2 Painful Truths
+4 Path to Exile
+2 Plains
+2 Sacred Foundry
+2 Swamp
+2 Thoughtseize
+1 Vault of the Archangel
+4 Young Pyromancer
+2 Zealous Persecution
+
+Sideboard
+2 Crackling Doom
+2 Damnation
+1 Duress
+2 Kor Firewalker
+1 Murderous Cut
+2 Obzedat, Ghost Council
+1 Painful Truths
+2 Rakdos Charm
+2 Stony Silence

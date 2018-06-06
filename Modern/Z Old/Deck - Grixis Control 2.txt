@@ -1,0 +1,41 @@
+4 Ancestral Vision
+2 Blackcleave Cliffs
+1 Blood Crypt
+3 Bloodstained Mire
+1 Creeping Tar Pit
+2 Darkslick Shores
+1 Electrolyze
+1 Ghost Quarter
+2 Goblin Dark-Dwellers
+1 Island
+1 Izzet Charm
+3 Jace, Vryn's Prodigy
+1 Kalitas, Traitor of Ghet
+3 Kolaghan's Command
+4 Lightning Bolt
+2 Mana Leak
+1 Mountain
+3 Polluted Delta
+3 Remand
+3 Scalding Tarn
+2 Serum Visions
+4 Snapcaster Mage
+2 Steam Vents
+1 Sulfur Falls
+1 Swamp
+3 Terminate
+1 Tribute to Hunger
+1 Vendilion Clique
+1 Watery Grave
+2 Young Pyromancer
+
+Sideboard
+3 Crumble to Dust
+2 Damnation
+2 Dispel
+1 Kalitas, Traitor of Ghet
+2 Leyline of the Void
+1 Molten Rain
+2 Negate
+1 Spell Pierce
+1 Terminus

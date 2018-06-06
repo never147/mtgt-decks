@@ -1,0 +1,29 @@
+4 Blighted Agent
+1 Progenitus
+4 Preordain
+4 Ponder
+4 Dragonstorm
+2 Gitaxian Probe
+4 Spell Pierce
+4 Peer Through Depths
+4 Muddle the Mixture
+4 Blazing Shoal
+3 Disrupting Shoal
+1 Summoner's Pact
+1 Pact of Negation
+1 Snapback
+2 Tolaria West
+1 Watery Grave
+4 Inkmoth Nexus
+4 Scalding Tarn
+8 Island
+
+Sideboard
+3 Vendilion Clique
+2 Jace Beleren
+4 Spellskite
+2 Deprive
+1 Trickbind
+1 Echoing Truth
+1 Slaughter Pact
+1 Dismember

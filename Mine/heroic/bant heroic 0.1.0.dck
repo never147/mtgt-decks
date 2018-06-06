@@ -1,0 +1,35 @@
+4 [THS:13] Favored Hoplite
+4 [THS:39] Aqueous Form
+2 [THS:189] Battlewise Hoplite
+1 [ZEN:220] Misty Rainforest
+4 [ROE:20] Emerge Unscathed
+1 [EXP:20] Windswept Heath
+1 [DIS:174] Hallowed Fountain
+1 [ZEN:246] Forest
+2 [MM2:14] Daybreak Coronet
+3 [ZEN:247] Forest
+1 [ZEN:248] Forest
+4 [KLD:146] Blossoming Defense
+4 [ULG:110] Rancor
+1 [SOI:278] Port Town
+4 [MM2:149] Mutagenic Growth
+2 [SOI:274] Fortified Village
+1 [GTC:240] Breeding Pool
+4 [JOU:14] Lagonna-Band Trailblazer
+1 [ZEN:230] Plains
+1 [EXP:10] Temple Garden
+1 [ZEN:231] Plains
+2 [ZEN:233] Plains
+1 [KTK:233] Flooded Strand
+4 [KTK:133] Hardened Scales
+4 [ZEN:237] Island
+2 [JOU:141] Solidarity of Heroes
+2 [JOU:50] Sage of Hours
+SB: 2 [ROE:26] Hyena Umbra
+SB: 1 [MMA:25] Path to Exile
+SB: 4 [MM2:168] Vines of Vastwood
+SB: 2 [KTK:10] Feat of Resistance
+SB: 2 [DTK:221] Dromoka's Command
+SB: 2 [SOI:20] Gryff's Boon
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,74)|([THS:189],[THS:189],[THS:13],[THS:13],[THS:13],[THS:13],[JOU:14],[JOU:14],[JOU:14],[JOU:14],[JOU:50],[JOU:50])([KTK:133],[KTK:133],[KTK:133],[KTK:133],[ULG:110],[ULG:110],[ULG:110],[ULG:110],[THS:39],[THS:39],[THS:39],[THS:39],[MM2:14],[MM2:14])([ROE:20],[ROE:20],[ROE:20],[ROE:20],[MM2:149],[MM2:149],[MM2:149],[MM2:149],[JOU:141],[JOU:141],[KLD:146],[KLD:146],[KLD:146],[KLD:146])([GTC:240],[KTK:233],[ZEN:246],[ZEN:247],[ZEN:247],[ZEN:247],[ZEN:248],[SOI:274],[SOI:274],[DIS:174],[ZEN:237],[ZEN:237],[ZEN:237],[ZEN:237],[ZEN:220],[ZEN:230],[ZEN:231],[ZEN:233],[ZEN:233],[SOI:278],[EXP:10],[EXP:20])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,50)|([SOI:20],[SOI:20],[MMA:25],[MM2:168],[MM2:168],[MM2:168],[MM2:168])([DTK:221],[DTK:221],[KTK:10],[KTK:10],[ROE:26],[ROE:26])
