@@ -2,12 +2,11 @@
 2 [AER:173] Renegade Map
 4 [XLN:102] Dire Fleet Hoarder
 2 [AKH:8] Cast Out
+2 [KLD:199] Bomat Courier
 4 [XLN:136] Captain Lannery Storm
 2 [KLD:187] Unlicensed Disintegration
 4 [AKH:2] Anointed Procession
-2 [XLN:90] Arguel's Blood Fast
 2 [M13:222] Dragonskull Summit
-2 [XLN:151] Makeshift Munitions
 2 [UNH:139] Mountain
 2 [M15:155] Lightning Strike
 3 [AKH:239] Canyon Slough
@@ -15,6 +14,7 @@
 4 [KLD:126] Reckless Fireweaver
 4 [KLD:245] Concealed Courtyard
 3 [KLD:246] Inspiring Vantage
+2 [KLD:125] Quicksmith Genius
 1 [UNH:136] Plains
 2 [KLD:90] Marionette Master
 4 [AKH:242] Evolving Wilds
@@ -23,10 +23,10 @@ SB: 2 [XLN:105] Duress
 SB: 2 [KLD:5] Authority of the Consuls
 SB: 2 [HOU:83] Abrade
 SB: 1 [HOU:60] Bontu's Last Reckoning
+SB: 2 [AKH:13] Forsake the Worldly
 SB: 1 [AKH:135] Harsh Mentor
 SB: 1 [AKH:123] By Force
 SB: 2 [AKH:148] Soul-Scar Mage
 SB: 2 [AER:88] Kari Zev's Expertise
-SB: 2 [AKH:3] Anointer Priest
-LAYOUT MAIN:(2,6)(CMC,true,50)|()()([XLN:102],[XLN:102],[XLN:102],[XLN:102],[KLD:126],[KLD:126],[KLD:126],[KLD:126])([XLN:136],[XLN:136],[XLN:136],[XLN:136],[XLN:119],[XLN:119],[XLN:119],[XLN:119])()([KLD:90],[KLD:90])([AKH:239],[AKH:239],[AKH:239],[KLD:245],[KLD:245],[KLD:245],[KLD:245],[M13:222],[M13:222],[AKH:242],[AKH:242],[AKH:242],[AKH:242],[KLD:246],[KLD:246],[KLD:246],[UNH:138],[UNH:136],[UNH:139],[UNH:139],[UNH:138],[UNH:138])([AER:173],[AER:173])([XLN:90],[XLN:90],[AER:129],[AER:129],[AER:129],[AER:129],[XLN:151],[XLN:151],[M15:155],[M15:155])([KLD:187],[KLD:187])([AKH:2],[AKH:2],[AKH:2],[AKH:2],[AKH:8],[AKH:8])()
-LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([XLN:105],[XLN:105],[KLD:5],[KLD:5],[AKH:148],[AKH:148],[AKH:123])([HOU:83],[AKH:135],[AKH:3],[AKH:3],[HOU:83])([AER:88],[AER:88],[HOU:60])
+LAYOUT MAIN:(2,6)(CMC,true,60)|()([KLD:199],[KLD:199])([XLN:102],[XLN:102],[XLN:102],[XLN:102],[KLD:126],[KLD:126],[KLD:126],[KLD:126])([XLN:136],[XLN:136],[XLN:136],[XLN:136],[XLN:119],[XLN:119],[XLN:119],[XLN:119],[KLD:125],[KLD:125])()([KLD:90],[KLD:90])([AKH:239],[AKH:239],[AKH:239],[KLD:245],[KLD:245],[KLD:245],[KLD:245],[M13:222],[M13:222],[AKH:242],[AKH:242],[AKH:242],[AKH:242],[KLD:246],[KLD:246],[KLD:246],[UNH:138],[UNH:136],[UNH:139],[UNH:139],[UNH:138],[UNH:138])([AER:173],[AER:173])([AER:129],[AER:129],[AER:129],[AER:129],[M15:155],[M15:155])([KLD:187],[KLD:187])([AKH:2],[AKH:2],[AKH:2],[AKH:2],[AKH:8],[AKH:8])()
+LAYOUT SIDEBOARD:(2,3)(CMC,false,50)|([XLN:105],[XLN:105],[KLD:5],[KLD:5],[AKH:148],[AKH:148],[AKH:123])([HOU:83],[AKH:135],[HOU:83])([AER:88],[AER:88],[HOU:60])()()([AKH:13],[AKH:13])
