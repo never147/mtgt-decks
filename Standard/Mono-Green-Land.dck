@@ -1,0 +1,25 @@
+2 [AKH:170] Harvest Season
+1 [KLD:163] Nissa, Vital Force
+4 [XLN:201] Ranging Raptors
+1 [DOM:174] Multani, Yavimaya's Avatar
+2 [XLN:254] Field of Ruin
+4 [DOM:153] Adventurous Impulse
+4 [DOM:183] Sylvan Awakening
+1 [DOM:173] The Mending of Dominaria
+2 [DOM:170] Llanowar Scout
+2 [RIX:149] Thunderherd Migration
+4 [RIX:150] Wayward Swordtooth
+2 [AKH:204] Nissa, Steward of Elements
+2 [RIX:151] World Shaper
+4 [HOU:129] Ramunap Excavator
+21 [AKH:254] Forest
+4 [AKH:242] Evolving Wilds
+SB: 2 [XLN:249] Thaumatic Compass
+SB: 2 [AER:109] Heroic Intervention
+SB: 2 [XLN:206] Shapers' Sanctuary
+SB: 1 [DOM:174] Multani, Yavimaya's Avatar
+SB: 2 [KLD:146] Blossoming Defense
+SB: 2 [RIX:139] Naturalize
+SB: 4 [HOU:121] Life Goes On
+LAYOUT MAIN:(2,7)(CMC,true,60)|()()([DOM:170],[DOM:170])([HOU:129],[HOU:129],[HOU:129],[HOU:129],[XLN:201],[XLN:201],[XLN:201],[XLN:201],[RIX:150],[RIX:150],[RIX:150],[RIX:150])([RIX:151],[RIX:151])()([DOM:174])([AKH:242],[AKH:242],[AKH:242],[AKH:242],[XLN:254],[XLN:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254])([DOM:153],[DOM:153],[DOM:153],[DOM:153])([AKH:204],[AKH:204],[RIX:149],[RIX:149])([AKH:170],[AKH:170],[DOM:183],[DOM:183],[DOM:183],[DOM:183])()([KLD:163],[DOM:173])()
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([XLN:206],[XLN:206],[HOU:121],[HOU:121],[HOU:121],[HOU:121],[KLD:146],[KLD:146])([XLN:249],[XLN:249],[AER:109],[AER:109],[RIX:139],[RIX:139])([DOM:174])
