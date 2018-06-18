@@ -1,0 +1,23 @@
+3 [XLN:22] Legion's Landing
+4 [RIX:17] Pride of Conquerors
+4 [RIX:14] Martyr of Dusk
+2 [DOM:10] Charge
+16 [AKH:250] Plains
+4 [HOU:183] Shefet Dunes
+4 [RIX:21] Skymarcher Aspirant
+4 [XLN:24] Mavren Fein, Dusk Apostle
+4 [AKH:2] Anointed Procession
+3 [RIX:18] Radiant Destiny
+2 [DOM:249] Zhalfirin Void
+2 [RIX:185] Arch of Orazca
+4 [XLN:29] Queen's Commission
+4 [XLN:1] Adanto Vanguard
+SB: 2 [XLN:34] Settle the Wreckage
+SB: 3 [KLD:5] Authority of the Consuls
+SB: 2 [DOM:31] Seal Away
+SB: 2 [XLN:16] Inspiring Cleric
+SB: 2 [AER:25] Thopter Arrest
+SB: 2 [AKH:13] Forsake the Worldly
+SB: 2 [XLN:17] Ixalan's Binding
+LAYOUT MAIN:(2,5)(CMC,true,60)|()([RIX:21],[RIX:21],[RIX:21],[RIX:21])([RIX:14],[RIX:14],[RIX:14],[RIX:14],[XLN:1],[XLN:1],[XLN:1],[XLN:1])([XLN:24],[XLN:24],[XLN:24],[XLN:24])()([HOU:183],[HOU:183],[HOU:183],[HOU:183],[RIX:185],[RIX:185],[DOM:249],[DOM:249],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250])([XLN:22],[XLN:22],[XLN:22],[DOM:10],[DOM:10])([RIX:17],[RIX:17],[RIX:17],[RIX:17])([RIX:18],[RIX:18],[RIX:18],[XLN:29],[XLN:29],[XLN:29],[XLN:29])([AKH:2],[AKH:2],[AKH:2],[AKH:2])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:5],[KLD:5],[KLD:5])([DOM:31],[DOM:31])([XLN:16],[XLN:16],[AER:25],[AER:25],[AKH:13],[AKH:13])([XLN:17],[XLN:17],[XLN:34],[XLN:34])
