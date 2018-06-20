@@ -1,8 +1,10 @@
 4 [KLD:25] Refurbish
 8 [AKH:250] Plains
-2 [AKH:195] Aven Wind Guide
+1 [AKH:195] Aven Wind Guide
 4 [HOU:161] God-Pharaoh's Gift
 2 [KLD:15] Fumigate
+1 [KLD:59] Padeem, Consul of Innovation
+2 [XLN:16] Inspiring Cleric
 4 [XLN:48] Chart a Course
 4 [XLN:255] Glacial Fortress
 2 [HOU:180] Ipnu Rivulet
@@ -16,13 +18,13 @@
 4 [HOU:31] Champion of Wits
 3 [AKH:245] Irrigated Farmland
 4 [AKH:251] Island
-2 [XLN:1] Adanto Vanguard
-SB: 2 [KLD:13] Fairgrounds Warden
-SB: 3 [XLN:16] Inspiring Cleric
-SB: 1 [RIX:45] Nezahal, Primal Tide
+SB: 3 [KLD:13] Fairgrounds Warden
+SB: 1 [AKH:195] Aven Wind Guide
+SB: 1 [KLD:59] Padeem, Consul of Innovation
+SB: 1 [XLN:16] Inspiring Cleric
 SB: 2 [DOM:26] Lyra Dawnbringer
 SB: 3 [RIX:44] Negate
 SB: 2 [AKH:1] Angel of Sanctions
 SB: 2 [XLN:71] River's Rebuke
-LAYOUT MAIN:(2,6)(CMC,true,60)|()([XLN:1],[XLN:1])([HOU:31],[HOU:31],[HOU:31],[HOU:31])([AKH:195],[AKH:195],[DOM:35],[DOM:35])([KLD:4],[KLD:4],[KLD:4],[KLD:4])()([XLN:254],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[HOU:180],[HOU:180],[AKH:245],[AKH:245],[AKH:245],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[DOM:249],[DOM:249])([XLN:48],[XLN:48],[XLN:48],[XLN:48],[KLD:220],[KLD:220],[XLN:74],[XLN:74],[HOU:47],[HOU:47],[HOU:47],[HOU:47])()([KLD:25],[KLD:25],[KLD:25],[KLD:25])([KLD:15],[KLD:15])([HOU:161],[HOU:161],[HOU:161],[HOU:161])
-LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([RIX:44],[RIX:44],[RIX:44])([KLD:13],[KLD:13],[XLN:16],[XLN:16],[XLN:16])([AKH:1],[AKH:1],[DOM:26],[DOM:26])([XLN:71],[XLN:71])([RIX:45])
+LAYOUT MAIN:(2,6)(CMC,true,60)|()()([HOU:31],[HOU:31],[HOU:31],[HOU:31],[XLN:16],[XLN:16])([AKH:195],[DOM:35],[DOM:35],[KLD:59])([KLD:4],[KLD:4],[KLD:4],[KLD:4])()([XLN:254],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[HOU:180],[HOU:180],[AKH:245],[AKH:245],[AKH:245],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[DOM:249],[DOM:249])([XLN:48],[XLN:48],[XLN:48],[XLN:48],[KLD:220],[KLD:220],[XLN:74],[XLN:74],[HOU:47],[HOU:47],[HOU:47],[HOU:47])()([KLD:25],[KLD:25],[KLD:25],[KLD:25])([KLD:15],[KLD:15])([HOU:161],[HOU:161],[HOU:161],[HOU:161])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([RIX:44],[RIX:44],[RIX:44])([KLD:13],[KLD:13],[XLN:16],[KLD:13])([KLD:59],[AKH:195])([AKH:1],[AKH:1],[DOM:26],[DOM:26])([XLN:71],[XLN:71])
