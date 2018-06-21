@@ -2,7 +2,6 @@
 1 [KLD:67] Torrential Gearhulk
 3 [XLN:255] Glacial Fortress
 2 [DOM:26] Lyra Dawnbringer
-2 [HOU:59] Banewhip Punisher
 2 [XLN:254] Field of Ruin
 4 [XLN:253] Drowned Catacomb
 3 [DOM:241] Isolated Chapel
@@ -16,6 +15,7 @@
 2 [XLN:129] Vraska's Contempt
 3 [AER:57] Fatal Push
 3 [DOM:254] Island
+2 [HOU:62] Doomfall
 4 [DOM:258] Swamp
 1 [AKH:13] Forsake the Worldly
 3 [DOM:81] Cast Down
@@ -24,12 +24,12 @@
 2 [KLD:84] Gonti, Lord of Luxury
 3 [AKH:243] Fetid Pools
 SB: 2 [XLN:105] Duress
-SB: 2 [HOU:62] Doomfall
 SB: 2 [XLN:129] Vraska's Contempt
 SB: 1 [AKH:13] Forsake the Worldly
 SB: 3 [RIX:44] Negate
+SB: 2 [AER:75] Yahenni's Expertise
 SB: 1 [HOU:145] The Scarab God
 SB: 2 [XLN:90] Arguel's Blood Fast
 SB: 2 [DOM:90] The Eldest Reborn
-LAYOUT MAIN:(2,7)(CMC,true,60)|()()()([HOU:31],[HOU:31],[HOU:31],[HOU:31],[HOU:59],[HOU:59])([RIX:82],[RIX:82],[KLD:84],[KLD:84])([HOU:145],[DOM:26],[DOM:26])([KLD:67])([XLN:253],[XLN:253],[XLN:253],[XLN:253],[AKH:243],[AKH:243],[AKH:243],[XLN:254],[XLN:254],[XLN:255],[XLN:255],[XLN:255],[AKH:245],[AKH:245],[AKH:245],[DOM:254],[DOM:254],[DOM:254],[DOM:241],[DOM:241],[DOM:241],[DOM:258],[DOM:258],[DOM:258],[DOM:258])([AER:57],[AER:57],[AER:57],[DOM:67],[DOM:67])([DOM:81],[DOM:81],[DOM:81],[AKH:52],[AKH:52],[AKH:52],[XLN:74],[XLN:74])([AER:31],[AER:31],[AKH:13])([KLD:49],[KLD:49],[XLN:129],[XLN:129])([DOM:207])()
-LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([XLN:105],[XLN:105])([XLN:90],[XLN:90],[RIX:44],[RIX:44],[RIX:44])([AKH:13],[HOU:62],[HOU:62])([XLN:129],[XLN:129])([DOM:90],[DOM:90],[HOU:145])
+LAYOUT MAIN:(2,7)(CMC,true,60)|()()()([HOU:31],[HOU:31],[HOU:31],[HOU:31])([RIX:82],[RIX:82],[KLD:84],[KLD:84])([HOU:145],[DOM:26],[DOM:26])([KLD:67])([XLN:253],[XLN:253],[XLN:253],[XLN:253],[AKH:243],[AKH:243],[AKH:243],[XLN:254],[XLN:254],[XLN:255],[XLN:255],[XLN:255],[AKH:245],[AKH:245],[AKH:245],[DOM:254],[DOM:254],[DOM:254],[DOM:241],[DOM:241],[DOM:241],[DOM:258],[DOM:258],[DOM:258],[DOM:258])([AER:57],[AER:57],[AER:57],[DOM:67],[DOM:67])([DOM:81],[DOM:81],[AKH:52],[AKH:52],[XLN:74],[XLN:74],[DOM:81],[AKH:52])([AER:31],[AER:31],[AKH:13],[HOU:62],[HOU:62])([KLD:49],[KLD:49],[XLN:129],[XLN:129])([DOM:207])()
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([XLN:105],[XLN:105])([XLN:90],[XLN:90],[RIX:44],[RIX:44],[RIX:44])([AKH:13])([XLN:129],[XLN:129],[AER:75],[AER:75])([DOM:90],[DOM:90],[HOU:145])
